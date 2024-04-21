@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Content-Disposition: attachment
+Server: scaffolding on HTTPServer2
+Content-Length: 1679
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Date: Fri, 19 Apr 2024 22:48:09 GMT
+Content-Type: application/x-protobuf
+Vary: Accept-Encoding
+Age: 399
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+

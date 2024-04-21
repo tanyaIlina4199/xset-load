@@ -1,0 +1,13 @@
+[t64]
+SnapshotXmlFile=snapshot_58.xml
+ContentType=text/html
+StepName=Url: nav.pl_4
+Total=1
+FileName1=t64.html
+RequestHeaderFile=t64_RequestHeader.txt
+ResponseHeaderFile=t64_ResponseHeader.txt
+RawStepEndTime=0
+RawStepName=nav.pl_4
+RequestBodyFile=t64_RequestBody.txt
+RawStepStartTime=1713718950432
+URL1=http://localhost:1080/cgi-bin/nav.pl?in=home

@@ -1,0 +1,11 @@
+[t27]
+FileName1=t27_sync.htm
+URL1=https://eb2.3lift.com/sync?&upapi=true
+Total=1
+ContentType=text/html
+SnapshotXmlFile=snapshot_27.xml
+RequestHeaderFile=t27_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t27_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

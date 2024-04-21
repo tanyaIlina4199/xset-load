@@ -1,0 +1,3 @@
+"{\"client_id\":\"dae19827-1e3d-4a29-a920-47f29999b027\",\"events\":[{\"name\":\"app_active\",\""
+"params\":{\"vendor\":\"chrome\",\"version\":\"1.2.5\",\"what\":\"extension\",\"extensionEnable"
+"d\":true,\"session_id\":\"1713567205384\",\"engagement_time_msec\":100}}]}"

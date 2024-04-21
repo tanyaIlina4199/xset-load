@@ -1,0 +1,13 @@
+[t85]
+SnapshotXmlFile=snapshot_77.xml
+ContentType=text/html
+StepName=Url: home.html
+Total=1
+FileName1=t85.html
+RequestHeaderFile=t85_RequestHeader.txt
+ResponseHeaderFile=t85_ResponseHeader.txt
+RawStepEndTime=0
+RawStepName=home.html
+RequestBodyFile=t85_RequestBody.txt
+RawStepStartTime=1713718952621
+URL1=http://localhost:1080/WebTours/home.html

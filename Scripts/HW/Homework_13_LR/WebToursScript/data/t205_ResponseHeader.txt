@@ -1,0 +1,25 @@
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Length: 2081
+Server: GitHub.com
+Content-Type: text/plain; charset=utf-8
+permissions-policy: interest-cohort=()
+Last-Modified: Sun, 21 Apr 2024 10:05:13 GMT
+Access-Control-Allow-Origin: *
+ETag: W/"6624e4d9-15fd"
+expires: Sun, 21 Apr 2024 10:15:49 GMT
+Cache-Control: max-age=600
+Content-Encoding: gzip
+x-proxy-cache: HIT
+X-GitHub-Request-Id: E8E8:2AF6FA:6F4EF90:71C1F03:6624E59B
+Accept-Ranges: bytes
+Date: Sun, 21 Apr 2024 12:52:33 GMT
+Via: 1.1 varnish
+Age: 43
+X-Served-By: cache-mxp6973-MXP
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1713703954.973493,VS0,VE1
+Vary: Accept-Encoding
+X-Fastly-Request-ID: 3706bcaea4d303feafec6d0f3ad758b22dcc12a1
+

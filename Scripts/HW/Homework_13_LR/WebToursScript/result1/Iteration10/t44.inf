@@ -1,0 +1,16 @@
+[t44]
+SnapshotXmlFile=snapshot_39.xml
+ContentType=text/html
+StepName=Url: Itinerary Button
+Total=2
+FileName1=t44.html
+FileName2=t89_8_profileValidate.UNK
+RequestHeaderFile=t44_RequestHeader.txt
+SaveSnapshotResources=1
+ResponseHeaderFile=t44_ResponseHeader.txt
+RawStepEndTime=0
+RawStepName=Itinerary Button
+RequestBodyFile=t44_RequestBody.txt
+RawStepStartTime=1713719085330
+URL1=http://localhost:1080/cgi-bin/welcome.pl?page=itinerary
+URL2=http://localhost:1080/WebTours/profileValidate.js

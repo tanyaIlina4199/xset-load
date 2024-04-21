@@ -1,0 +1,11 @@
+[t37]
+FileName1=t37_imp.json
+URL1=https://g2.gumgum.com/hbid/imp?lt=1713567271100&to=-60&aun=ay_top_banner__ayManagerEnv__1_9549e738&criteoId=x6qmhV91RlJNVklCZ3ZTclloZjBtRnAwWUFFNkVQY3IwZEE5ZEhEdU81T0xJZjFveDZLQ3hCSExQNE9JWWlkNFQ0SlYzRXQwZjBJanlzR3NCQVRwTWJ5eTVXeVJDNnYwJTJGblhIdlhqNzNwbXBscDBzJTNE&id5id=ID5*Uir_wSaj0gbhwz0sSo84qj-X6GucKfe2BcdoSuzH-JWWdxdZwj2hv2OMdqqU8xAf&pubcid=f8639b89-3b3c-413e-b7a4-f4d5b8a33fee&gpid=ay_top_banner__ayManagerEnv__1_9549e738&fp=0.03&fpc=USD&t=kvbef9tl&pi=3&maxw=970&maxh=90&si=976166&bf=970x90%2C728x90&vw=1600&vh=765&sw=1600&sh=900&pu=https%3A%2F%2Fwww.fangraphs.com%2F&ce=true&dpr=1&jcsi=%7B%22t%22%3A0%2C%22rq%22%3A8%2C%22pbv%22%3A%227.47.0%22%7D&ogu=null&ns=1024&upapi=true
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_37.xml
+RequestHeaderFile=t37_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t37_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

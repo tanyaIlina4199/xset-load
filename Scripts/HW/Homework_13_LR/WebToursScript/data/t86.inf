@@ -1,0 +1,11 @@
+[t86]
+FileName1=t86_l.html
+URL1=https://translate.googleapis.com/translate_a/l?client=gtx&hl=ru&cb=_callbacks____0lv7b2l0g
+Total=1
+ContentType=application/javascript
+SnapshotXmlFile=snapshot_86.xml
+RequestHeaderFile=t86_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t86_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

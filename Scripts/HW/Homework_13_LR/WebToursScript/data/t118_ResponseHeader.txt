@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Sat, 20 Apr 2024 12:43:37 GMT
+Server: Apache/2.2.21 (Win32)
+Last-Modified: Fri, 22 Mar 2024 19:20:47 GMT
+ETag: "51000000033da3-2d6-61444b8980732"
+Accept-Ranges: bytes
+Content-Length: 726
+Keep-Alive: timeout=5, max=98
+Connection: Keep-Alive
+Content-Type: image/gif
+

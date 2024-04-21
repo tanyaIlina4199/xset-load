@@ -1,0 +1,28 @@
+HTTP/1.1 200 OK
+X-GUploader-UploadID: ABPtcPpF8p4ltDvRiXVDVk-pTXaGr0O_g9E0Fjkttf-pLPl459iyYPEVEr5FHMLm5AUbIfyo5jA
+x-goog-generation: 1713523525079536
+x-goog-metageneration: 1
+x-goog-stored-content-encoding: identity
+x-goog-stored-content-length: 311103
+x-goog-hash: crc32c=fQqdbg==
+x-goog-hash: md5=qAqcKEwB+imlRXS1BNRfSQ==
+x-goog-storage-class: STANDARD
+Accept-Ranges: none
+Server: UploadServer
+Content-Encoding: br
+Date: Sat, 20 Apr 2024 04:17:33 GMT
+Last-Modified: Fri, 19 Apr 2024 10:45:25 GMT
+ETag: W/"a80a9c284c01fa29a54574b504d45f49"
+Content-Type: text/plain; charset=UTF-8
+Vary: Accept-Encoding
+Content-Length: 83579
+Age: 30453
+Cache-Control: public,max-age=86400
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+x-frame-options: DENY
+strict-transport-security: max-age=15552000; includeSubDomains; preload
+access-control-allow-origin: *
+content-security-policy: default-src 'none'; img-src 'self'; script-src 'unsafe-inline'; style-src 'self'
+Alt-Svc: clear
+

@@ -1,0 +1,13 @@
+[t41]
+SnapshotXmlFile=snapshot_36.xml
+ContentType=text/html
+StepName=Submit Data: reservations.pl_2
+Total=1
+FileName1=t41.html
+RequestHeaderFile=t41_RequestHeader.txt
+ResponseHeaderFile=t41_ResponseHeader.txt
+RawStepEndTime=0
+RawStepName=reservations.pl_2
+RequestBodyFile=t41_RequestBody.txt
+RawStepStartTime=1713718948135
+URL1=http://localhost:1080/cgi-bin/reservations.pl

@@ -1,0 +1,13 @@
+[t44]
+SnapshotXmlFile=snapshot_39.xml
+ContentType=text/html
+StepName=Url: Itinerary Button
+Total=1
+FileName1=t44.html
+RequestHeaderFile=t44_RequestHeader.txt
+ResponseHeaderFile=t44_ResponseHeader.txt
+RawStepEndTime=0
+RawStepName=Itinerary Button
+RequestBodyFile=t44_RequestBody.txt
+RawStepStartTime=1713718948770
+URL1=http://localhost:1080/cgi-bin/welcome.pl?page=itinerary

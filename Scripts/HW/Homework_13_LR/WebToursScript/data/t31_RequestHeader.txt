@@ -1,0 +1,16 @@
+GET /usync.js HTTP/1.1
+Host: eus.rubiconproject.com
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="124", "Google Chrome";v="124", "Not-A.Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://eus.rubiconproject.com/usync.html
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: khaos=LT5XB38M-D-FCRQ; receive-cookie-deprecation=1; audit=1|naVuGyos1qq0qSb2nGKBBZj/qEzGBvVT0mQdGl5TW96xXwzsfItzayRwgrcjBYVZUmWWbroCrmYmGweUluV0NzNF7Xfk3iAErmeAf3la8RYO3OmLDv27x0iL/Q+AxqkR
+

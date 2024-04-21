@@ -1,0 +1,1117 @@
+1fb8
+{
+    "n20170410_0": {
+        "btnTitle": "Установить", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/P2P_Search?install=auto", 
+        "excludeScripts": [
+            "acestream/P2P Search"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?(google)\\."
+        ],
+        "text": "Установите скрипт \"P2P Search\" для возможности поиска видео и аудио контента, в т.ч. прямых трансляций, в сетях P2P (BitTorrent/AceStream)", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    },
+    "n20170410_1": {
+        "btnTitle": "Установить", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/P2P_Search?install=auto", 
+        "excludeScripts": [
+            "acestream/P2P Search"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?(yandex|ya)\\."
+        ],
+        "text": "Установите скрипт \"P2P Search\" для возможности поиска видео и аудио контента, в т.ч. прямых трансляций, в сетях P2P (BitTorrent/AceStream)", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    },
+    "n20151117_0": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?(new-rutor|rutor)\\.org"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_1": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?rutracker\\.org"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_10": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?extratorrent\\.(com|cc)"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_11": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?torrentdownloads\\."
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_12": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?eztv\\.(it|ag)"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_13": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?tracker\\.0day\\.kiev\\.ua"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_14": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+    
+2000
+    "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?nnm-club\\.me"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_15": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?retre\\.org"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_16": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?novafilm\\.tv"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_17": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?kinokopilka\\.tv"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_18": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?torrents\\.net\\.ua"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_19": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?uniongang\\.tv"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_2": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?opensharing\\.org"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_20": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?torrentsmd\\.com"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u04
+2000
+42 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_21": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?hdclub\\.org"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_22": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?yourbittorrent\\.com"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_23": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?www\\.limetorrents\\.cc"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_24": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?thepiratebay\\."
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_25": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?piratbit\\.net"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_26": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?rustorka\\.com"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_27": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?rarbg\\.(com|to)"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u0
+2000
+43b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_28": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?free-torrents\\.org"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_29": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?riper\\.am"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_3": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?fasttorrent\\.ru"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_30": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?filebase\\.ws"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_31": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?www\\.nyaa\\.(eu|se)"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_32": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?toloka\\.to"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_33": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?1337x\\.(org|to)"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_34": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/s
+1000
+cripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?rgfootball\\.net"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_35": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?unionpeer\\.org"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_36": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?bigfangroup\\.org"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_37": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?dontracker\\.ru"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e
+2000
+\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_38": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?bitsnoop\\.com"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_39": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?estrenosdtl\\.com"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_4": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?fast-torrent\\.ru"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_40": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?divxtotal\\.com"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_41": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?(btscene|bts|btstor)\\.(eu|org|to|cc)"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_42": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?sumotorrent\\.(sx|com)"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_43": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?picktorrent\\.com"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_44": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.a
+2000
+cestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?bakabt\\.me"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_45": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?animelayer\\.ru"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_46": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?dxp\\.ru"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_47": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?hqclub\\.net"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_48": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?pravtor\\.ru"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_49": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?dimeadozen\\.org"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_5": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?mediastore\\.in\\.ua"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_50": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?bigtorrent\\.org"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \
+2000
+u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_51": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?newtorr\\.(kz|org)"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_52": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?zlotracker\\.org"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_53": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?baibako\\.tv"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_54": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?mininova\\.org"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_55": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?torlock\\.com"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_56": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?torrentbit\\.net"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_57": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?nigma\\.ru"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u043
+1ff8
+8\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_58": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?www\\.elitetorrent\\.net"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_59": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?www\\.linkomanija\\.net"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_6": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?goldenshara\\.(org|com|net)"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_60": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?katushka\\.net"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_61": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?masters-tb\\.com"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_62": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?opentorrent\\.ru"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_63": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?torrentfunk\\.com"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_64": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/aces
+1000
+tream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?big-boss-tracker\\.net"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_65": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?nice-media\\.ru"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_66": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?scenefz\\.net"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_67": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?torrnado\\.ru"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043
+30af
+e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_68": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?yify-torrent\\.org"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_69": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?torrent\\.jc-club\\.org\\.ua"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_7": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?ex\\.ua"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_70": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?treckera\\.net"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_71": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?www\\.8club\\.org"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_72": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?uatracker\\.net/"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_73": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?youtor\\.org"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_74": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?uraltrack\\.net"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_75": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?nnportal\\.org"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_8": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?fex\\.net"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }, 
+    "n20151117_9": {
+        "btnTitle": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c", 
+        "btnUrl": "http://awe.acestream.me/scripts/acestream/Magic_Player?install=auto", 
+        "excludeScripts": [
+            "acestream/Magic Player"
+        ], 
+        "excludes": [], 
+        "includes": [
+            "^http(s)?://([^\\.]+\\.)?kinozal\\.tv"
+        ], 
+        "text": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u0441\u043a\u0440\u0438\u043f\u0442 Magic Player \u0434\u043b\u044f \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0432\u0430\u043d\u0438\u044f \u0442\u043e\u0440\u0440\u0435\u043d\u0442\u043e\u0432 \u0432 \u043e\u043d\u043b\u0430\u0439\u043d\u0435, \u0431\u0435\u0437 \u0438\u0445 \u0441\u043a\u0430\u0447\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0431\u0435\u0437 \u0443\u0442\u043e\u043c\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0438 \u0444\u0430\u0439\u043b\u043e\u0432", 
+        "excludeBasedOnOther": true,
+        "title": ""
+    }
+}
+0
+

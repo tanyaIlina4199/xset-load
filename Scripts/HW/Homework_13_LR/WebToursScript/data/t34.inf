@@ -1,0 +1,11 @@
+[t34]
+FileName1=t34_fastlane.json
+URL1=https://fastlane.rubiconproject.com/a/api/fastlane.json?account_id=26488&site_id=541318&zone_id=3344548&size_id=9&alt_size_ids=8&eid_criteo.com=x6qmhV91RlJNVklCZ3ZTclloZjBtRnAwWUFFNkVQY3IwZEE5ZEhEdU81T0xJZjFveDZLQ3hCSExQNE9JWWlkNFQ0SlYzRXQwZjBJanlzR3NCQVRwTWJ5eTVXeVJDNnYwJTJGblhIdlhqNzNwbXBscDBzJTNE%5E1&eid_id5-sync.com=ID5*Uir_wSaj0gbhwz0sSo84qj-X6GucKfe2BcdoSuzH-JWWdxdZwj2hv2OMdqqU8xAf%5E1%5E2&eid_blockthrough.com=bt-aauser%5E1&eid_pubcid.org=f8639b89-3b3c-413e-b7a4-f4d5b8a33fee%5E1&ppuid=bt-aauser&rf=https%3A%2F%2Fwww.fangraphs.com%2F&tg_i.domain=fangraphs.com&tg_i.page=https%3A%2F%2Fwww.fangraphs.com%2F&tg_i.keywords=blockthrough&tg_i.pbadslot=sticky_right__ayManagerEnv__1_69b3d958&tk_flint=pbjs_lite_v7.47.0&x_source.tid=54b3908f-37fa-42e1-8e21-45a35cf2335e&l_pb_bid_id=6742c3175f90293&p_screen_res=1600x900&rp_secure=1&x_imp.ext.tid=54b3908f-37fa-42e1-8e21-45a35cf2335e&rp_hard_floor=0.03&rp_maxbids=1&p_gpid=sticky_right__ayManagerEnv__1_69b3d958&slots=1&rand=0.48850408760087705&upapi=true
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_34.xml
+RequestHeaderFile=t34_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t34_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,787 @@
+[
+    {
+        "actionName": "UC01_Login",
+        "steps": [
+            {
+                "stepId": "STEP250",
+                "stepName": "Url: WebTours",
+                "infFile": "t1.inf",
+                "time": 1713718985919
+            },
+            {
+                "stepId": "STEP251",
+                "stepName": "Url: header.html",
+                "infFile": "t2.inf",
+                "time": 1713718985984
+            },
+            {
+                "stepId": "STEP252",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t3.inf",
+                "time": 1713718986064
+            },
+            {
+                "stepId": "STEP253",
+                "stepName": "Url: home.html",
+                "infFile": "t4.inf",
+                "time": 1713718986123
+            },
+            {
+                "stepId": "STEP254",
+                "stepName": "Url: nav.pl",
+                "infFile": "t6.inf",
+                "time": 1713718986206
+            },
+            {
+                "stepId": "STEP255",
+                "stepName": "Submit Data: login.pl",
+                "infFile": "t7.inf",
+                "time": 1713718986373
+            },
+            {
+                "stepId": "STEP256",
+                "stepName": "Url: login.pl_2",
+                "infFile": "t8.inf",
+                "time": 1713718986458
+            },
+            {
+                "stepId": "STEP257",
+                "stepName": "Url: nav.pl_2",
+                "infFile": "t9.inf",
+                "time": 1713718986553
+            },
+            {
+                "stepId": "STEP258",
+                "stepName": "Url: SignOff Button",
+                "infFile": "t10.inf",
+                "time": 1713718986678
+            },
+            {
+                "stepId": "STEP259",
+                "stepName": "Url: home.html_2",
+                "infFile": "t11.inf",
+                "time": 1713718986709
+            },
+            {
+                "stepId": "STEP260",
+                "stepName": "Url: nav.pl_3",
+                "infFile": "t12.inf",
+                "time": 1713718986790
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "UC01_01_Home_page",
+                "rawStartTime": 1713718985758,
+                "rawEndTime": 1713718986218,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0746164321899414
+            },
+            {
+                "transactionName": "UC01_02_Login",
+                "rawStartTime": 1713718986234,
+                "rawEndTime": 1713718986565,
+                "thinkTime": 0.0,
+                "wastedTime": 0.045783042907714847
+            },
+            {
+                "transactionName": "UC01_03_Sign_off",
+                "rawStartTime": 1713718986581,
+                "rawEndTime": 1713718986804,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0427699089050293
+            },
+            {
+                "transactionName": "UC01_Login",
+                "rawStartTime": 1713718985742,
+                "rawEndTime": 1713718986820,
+                "thinkTime": 0.0,
+                "wastedTime": 0.16316938400268556
+            }
+        ]
+    },
+    {
+        "actionName": "UC02_Search_ticket_without_purchasing",
+        "steps": [
+            {
+                "stepId": "STEP261",
+                "stepName": "Url: WebTours",
+                "infFile": "t13.inf",
+                "time": 1713718987028
+            },
+            {
+                "stepId": "STEP262",
+                "stepName": "Url: header.html",
+                "infFile": "t14.inf",
+                "time": 1713718987090
+            },
+            {
+                "stepId": "STEP263",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t15.inf",
+                "time": 1713718987172
+            },
+            {
+                "stepId": "STEP264",
+                "stepName": "Url: home.html",
+                "infFile": "t16.inf",
+                "time": 1713718987203
+            },
+            {
+                "stepId": "STEP265",
+                "stepName": "Url: nav.pl",
+                "infFile": "t18.inf",
+                "time": 1713718987315
+            },
+            {
+                "stepId": "STEP266",
+                "stepName": "Submit Data: login.pl",
+                "infFile": "t19.inf",
+                "time": 1713718987447
+            },
+            {
+                "stepId": "STEP267",
+                "stepName": "Url: login.pl_2",
+                "infFile": "t20.inf",
+                "time": 1713718987538
+            },
+            {
+                "stepId": "STEP268",
+                "stepName": "Url: nav.pl_2",
+                "infFile": "t21.inf",
+                "time": 1713718987616
+            },
+            {
+                "stepId": "STEP269",
+                "stepName": "Url: Search Flights Button",
+                "infFile": "t22.inf",
+                "time": 1713718987757
+            },
+            {
+                "stepId": "STEP270",
+                "stepName": "Url: nav.pl_3",
+                "infFile": "t23.inf",
+                "time": 1713718987840
+            },
+            {
+                "stepId": "STEP271",
+                "stepName": "Url: reservations.pl",
+                "infFile": "t24.inf",
+                "time": 1713718987962
+            },
+            {
+                "stepId": "STEP272",
+                "stepName": "Submit Data: reservations.pl_2",
+                "infFile": "t26.inf",
+                "time": 1713718988202
+            },
+            {
+                "stepId": "STEP273",
+                "stepName": "Submit Data: reservations.pl_3",
+                "infFile": "t27.inf",
+                "time": 1713718988346
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "UC02_01_Home_page",
+                "rawStartTime": 1713718986868,
+                "rawEndTime": 1713718987217,
+                "thinkTime": 0.0,
+                "wastedTime": 0.054933786392211917
+            },
+            {
+                "transactionName": "UC02_02_Login",
+                "rawStartTime": 1713718987233,
+                "rawEndTime": 1713718987646,
+                "thinkTime": 0.0,
+                "wastedTime": 0.05969715118408203
+            },
+            {
+                "transactionName": "UC02_03_Ticket_search",
+                "rawStartTime": 1713718987678,
+                "rawEndTime": 1713718987964,
+                "thinkTime": 0.0,
+                "wastedTime": 0.042867422103881839
+            },
+            {
+                "transactionName": "UC02_04_Fill_date",
+                "rawStartTime": 1713718987980,
+                "rawEndTime": 1713718988233,
+                "thinkTime": 0.0,
+                "wastedTime": 0.02150273323059082
+            },
+            {
+                "transactionName": "UC02_05_Select_ticket",
+                "rawStartTime": 1713718988249,
+                "rawEndTime": 1713718988361,
+                "thinkTime": 0.0,
+                "wastedTime": 0.01646876335144043
+            },
+            {
+                "transactionName": "UC02_Search_ticket_without_purchasing",
+                "rawStartTime": 1713718986852,
+                "rawEndTime": 1713718988377,
+                "thinkTime": 0.0,
+                "wastedTime": 0.19546985626220704
+            }
+        ]
+    },
+    {
+        "actionName": "UC03_Buy_ticket",
+        "steps": [
+            {
+                "stepId": "STEP274",
+                "stepName": "Url: WebTours",
+                "infFile": "t28.inf",
+                "time": 1713718988583
+            },
+            {
+                "stepId": "STEP275",
+                "stepName": "Url: header.html",
+                "infFile": "t29.inf",
+                "time": 1713718988649
+            },
+            {
+                "stepId": "STEP276",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t30.inf",
+                "time": 1713718988730
+            },
+            {
+                "stepId": "STEP277",
+                "stepName": "Url: home.html",
+                "infFile": "t31.inf",
+                "time": 1713718988761
+            },
+            {
+                "stepId": "STEP278",
+                "stepName": "Url: nav.pl",
+                "infFile": "t33.inf",
+                "time": 1713718988841
+            },
+            {
+                "stepId": "STEP279",
+                "stepName": "Submit Data: login.pl",
+                "infFile": "t34.inf",
+                "time": 1713718989002
+            },
+            {
+                "stepId": "STEP280",
+                "stepName": "Url: login.pl_2",
+                "infFile": "t35.inf",
+                "time": 1713718989098
+            },
+            {
+                "stepId": "STEP281",
+                "stepName": "Url: nav.pl_2",
+                "infFile": "t36.inf",
+                "time": 1713718989187
+            },
+            {
+                "stepId": "STEP282",
+                "stepName": "Url: Search Flights Button",
+                "infFile": "t37.inf",
+                "time": 1713718989327
+            },
+            {
+                "stepId": "STEP283",
+                "stepName": "Url: reservations.pl",
+                "infFile": "t38.inf",
+                "time": 1713718989423
+            },
+            {
+                "stepId": "STEP284",
+                "stepName": "Url: nav.pl_3",
+                "infFile": "t39.inf",
+                "time": 1713718989503
+            },
+            {
+                "stepId": "STEP285",
+                "stepName": "Submit Data: reservations.pl_2",
+                "infFile": "t41.inf",
+                "time": 1713718989687
+            },
+            {
+                "stepId": "STEP286",
+                "stepName": "Submit Data: reservations.pl_3",
+                "infFile": "t42.inf",
+                "time": 1713718989938
+            },
+            {
+                "stepId": "STEP287",
+                "stepName": "Submit Data: reservations.pl_4",
+                "infFile": "t43.inf",
+                "time": 1713718990162
+            },
+            {
+                "stepId": "STEP288",
+                "stepName": "Url: Itinerary Button",
+                "infFile": "t44.inf",
+                "time": 1713718990327
+            },
+            {
+                "stepId": "STEP289",
+                "stepName": "Url: nav.pl_4",
+                "infFile": "t45.inf",
+                "time": 1713718990411
+            },
+            {
+                "stepId": "STEP290",
+                "stepName": "Url: itinerary.pl",
+                "infFile": "t46.inf",
+                "time": 1713718990543
+            },
+            {
+                "stepId": "STEP291",
+                "stepName": "Url: SignOff Button",
+                "infFile": "t47.inf",
+                "time": 1713718990724
+            },
+            {
+                "stepId": "STEP292",
+                "stepName": "Url: home.html_2",
+                "infFile": "t48.inf",
+                "time": 1713718990759
+            },
+            {
+                "stepId": "STEP293",
+                "stepName": "Url: nav.pl_5",
+                "infFile": "t49.inf",
+                "time": 1713718990839
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "UC03_01_Home_page",
+                "rawStartTime": 1713718988424,
+                "rawEndTime": 1713718988854,
+                "thinkTime": 0.0,
+                "wastedTime": 0.06891870498657227
+            },
+            {
+                "transactionName": "UC03_02_Login",
+                "rawStartTime": 1713718988869,
+                "rawEndTime": 1713718989200,
+                "thinkTime": 0.0,
+                "wastedTime": 0.05008268356323242
+            },
+            {
+                "transactionName": "UC03_03_Search_ticket",
+                "rawStartTime": 1713718989217,
+                "rawEndTime": 1713718989517,
+                "thinkTime": 0.0,
+                "wastedTime": 0.04337048530578613
+            },
+            {
+                "transactionName": "UC03_04_Select_date",
+                "rawStartTime": 1713718989533,
+                "rawEndTime": 1713718989709,
+                "thinkTime": 0.0,
+                "wastedTime": 0.01668381690979004
+            },
+            {
+                "transactionName": "UC03_05_Select_time",
+                "rawStartTime": 1713718989725,
+                "rawEndTime": 1713718989946,
+                "thinkTime": 0.0,
+                "wastedTime": 0.020163536071777345
+            },
+            {
+                "transactionName": "UC03_06_Payment_detaills",
+                "rawStartTime": 1713718989962,
+                "rawEndTime": 1713718990231,
+                "thinkTime": 0.0,
+                "wastedTime": 0.014434814453125
+            },
+            {
+                "transactionName": "UC03_07_Tickets_list",
+                "rawStartTime": 1713718990247,
+                "rawEndTime": 1713718990643,
+                "thinkTime": 0.0,
+                "wastedTime": 0.042176246643066409
+            },
+            {
+                "transactionName": "UC03_08_Sign_off",
+                "rawStartTime": 1713718990659,
+                "rawEndTime": 1713718990850,
+                "thinkTime": 0.0,
+                "wastedTime": 0.04522132873535156
+            },
+            {
+                "transactionName": "UC03_Buy_ticket",
+                "rawStartTime": 1713718988409,
+                "rawEndTime": 1713718990866,
+                "thinkTime": 0.0,
+                "wastedTime": 0.30105161666870119
+            }
+        ]
+    },
+    {
+        "actionName": "UC04_Tickets_list",
+        "steps": [
+            {
+                "stepId": "STEP294",
+                "stepName": "Url: WebTours",
+                "infFile": "t50.inf",
+                "time": 1713718991071
+            },
+            {
+                "stepId": "STEP295",
+                "stepName": "Url: header.html",
+                "infFile": "t51.inf",
+                "time": 1713718991139
+            },
+            {
+                "stepId": "STEP296",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t52.inf",
+                "time": 1713718991217
+            },
+            {
+                "stepId": "STEP297",
+                "stepName": "Url: home.html",
+                "infFile": "t53.inf",
+                "time": 1713718991245
+            },
+            {
+                "stepId": "STEP298",
+                "stepName": "Url: nav.pl",
+                "infFile": "t55.inf",
+                "time": 1713718991329
+            },
+            {
+                "stepId": "STEP299",
+                "stepName": "Submit Data: login.pl",
+                "infFile": "t56.inf",
+                "time": 1713718991489
+            },
+            {
+                "stepId": "STEP300",
+                "stepName": "Url: login.pl_2",
+                "infFile": "t57.inf",
+                "time": 1713718991582
+            },
+            {
+                "stepId": "STEP301",
+                "stepName": "Url: nav.pl_2",
+                "infFile": "t58.inf",
+                "time": 1713718991672
+            },
+            {
+                "stepId": "STEP302",
+                "stepName": "Url: Itinerary Button",
+                "infFile": "t59.inf",
+                "time": 1713718991803
+            },
+            {
+                "stepId": "STEP303",
+                "stepName": "Url: itinerary.pl",
+                "infFile": "t60.inf",
+                "time": 1713718991901
+            },
+            {
+                "stepId": "STEP304",
+                "stepName": "Url: nav.pl_3",
+                "infFile": "t61.inf",
+                "time": 1713718991989
+            },
+            {
+                "stepId": "STEP305",
+                "stepName": "Url: SignOff Button",
+                "infFile": "t62.inf",
+                "time": 1713718992114
+            },
+            {
+                "stepId": "STEP306",
+                "stepName": "Url: home.html_2",
+                "infFile": "t63.inf",
+                "time": 1713718992146
+            },
+            {
+                "stepId": "STEP307",
+                "stepName": "Url: nav.pl_4",
+                "infFile": "t64.inf",
+                "time": 1713718992231
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "UC04_01_Home_page",
+                "rawStartTime": 1713718990914,
+                "rawEndTime": 1713718991338,
+                "thinkTime": 0.0,
+                "wastedTime": 0.07909369468688965
+            },
+            {
+                "transactionName": "UC04_02_Login",
+                "rawStartTime": 1713718991355,
+                "rawEndTime": 1713718991686,
+                "thinkTime": 0.0,
+                "wastedTime": 0.04523444175720215
+            },
+            {
+                "transactionName": "UC04_03_Tikcets_list",
+                "rawStartTime": 1713718991702,
+                "rawEndTime": 1713718992002,
+                "thinkTime": 0.0,
+                "wastedTime": 0.04175090789794922
+            },
+            {
+                "transactionName": "UC04_04_Sign_off",
+                "rawStartTime": 1713718992018,
+                "rawEndTime": 1713718992241,
+                "thinkTime": 0.0,
+                "wastedTime": 0.04711484909057617
+            },
+            {
+                "transactionName": "UC04_Tickets_list",
+                "rawStartTime": 1713718990898,
+                "rawEndTime": 1713718992257,
+                "thinkTime": 0.0,
+                "wastedTime": 0.2131938934326172
+            }
+        ]
+    },
+    {
+        "actionName": "UC05_Removing_existing_ticket",
+        "steps": [
+            {
+                "stepId": "STEP308",
+                "stepName": "Url: WebTours",
+                "infFile": "t65.inf",
+                "time": 1713718992466
+            },
+            {
+                "stepId": "STEP309",
+                "stepName": "Url: header.html",
+                "infFile": "t66.inf",
+                "time": 1713718992530
+            },
+            {
+                "stepId": "STEP310",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t67.inf",
+                "time": 1713718992607
+            },
+            {
+                "stepId": "STEP311",
+                "stepName": "Url: home.html",
+                "infFile": "t68.inf",
+                "time": 1713718992640
+            },
+            {
+                "stepId": "STEP312",
+                "stepName": "Url: nav.pl",
+                "infFile": "t70.inf",
+                "time": 1713718992720
+            },
+            {
+                "stepId": "STEP313",
+                "stepName": "Submit Data: login.pl",
+                "infFile": "t71.inf",
+                "time": 1713718992884
+            },
+            {
+                "stepId": "STEP314",
+                "stepName": "Url: login.pl_2",
+                "infFile": "t72.inf",
+                "time": 1713718992978
+            },
+            {
+                "stepId": "STEP315",
+                "stepName": "Url: nav.pl_2",
+                "infFile": "t73.inf",
+                "time": 1713718993055
+            },
+            {
+                "stepId": "STEP316",
+                "stepName": "Url: Itinerary Button",
+                "infFile": "t74.inf",
+                "time": 1713718993181
+            },
+            {
+                "stepId": "STEP317",
+                "stepName": "Url: itinerary.pl",
+                "infFile": "t76.inf",
+                "time": 1713718993288
+            },
+            {
+                "stepId": "STEP318",
+                "stepName": "Url: nav.pl_3",
+                "infFile": "t77.inf",
+                "time": 1713718993380
+            },
+            {
+                "stepId": "STEP319",
+                "stepName": "Custom Request: itinerary.pl_2",
+                "infFile": "t78.inf",
+                "time": 1713718998298
+            },
+            {
+                "stepId": "STEP320",
+                "stepName": "Url: welcome.pl_2",
+                "infFile": "t79.inf",
+                "time": 1713718998496
+            },
+            {
+                "stepId": "STEP321",
+                "stepName": "Url: nav.pl_4",
+                "infFile": "t80.inf",
+                "time": 1713718998570
+            },
+            {
+                "stepId": "STEP322",
+                "stepName": "Url: home.html_2",
+                "infFile": "t81.inf",
+                "time": 1713718998614
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "UC05_01_Home_page",
+                "rawStartTime": 1713718992305,
+                "rawEndTime": 1713718992735,
+                "thinkTime": 0.0,
+                "wastedTime": 0.07051634788513184
+            },
+            {
+                "transactionName": "UC05_02_Login",
+                "rawStartTime": 1713718992751,
+                "rawEndTime": 1713718993071,
+                "thinkTime": 0.0,
+                "wastedTime": 0.04391288757324219
+            },
+            {
+                "transactionName": "UC05_03_Tickets_list",
+                "rawStartTime": 1713718993087,
+                "rawEndTime": 1713718993388,
+                "thinkTime": 0.0,
+                "wastedTime": 0.04367518424987793
+            },
+            {
+                "transactionName": "UC05_04_Remove_ticket",
+                "rawStartTime": 1713718993404,
+                "rawEndTime": 1713718998311,
+                "thinkTime": 0.0,
+                "wastedTime": 0.010511159896850586
+            },
+            {
+                "transactionName": "UC05_05_Sign_off",
+                "rawStartTime": 1713718998327,
+                "rawEndTime": 1713718998629,
+                "thinkTime": 0.0,
+                "wastedTime": 0.04771304130554199
+            },
+            {
+                "transactionName": "UC05_Removing_existing_ticket",
+                "rawStartTime": 1713718992289,
+                "rawEndTime": 1713718998645,
+                "thinkTime": 0.0,
+                "wastedTime": 0.21632862091064454
+            }
+        ]
+    },
+    {
+        "actionName": "UC06_New_user_registration",
+        "steps": [
+            {
+                "stepId": "STEP323",
+                "stepName": "Url: WebTours",
+                "infFile": "t82.inf",
+                "time": 1713718998853
+            },
+            {
+                "stepId": "STEP324",
+                "stepName": "Url: header.html",
+                "infFile": "t83.inf",
+                "time": 1713718998918
+            },
+            {
+                "stepId": "STEP325",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t84.inf",
+                "time": 1713718999003
+            },
+            {
+                "stepId": "STEP326",
+                "stepName": "Url: home.html",
+                "infFile": "t85.inf",
+                "time": 1713718999034
+            },
+            {
+                "stepId": "STEP327",
+                "stepName": "Url: nav.pl",
+                "infFile": "t87.inf",
+                "time": 1713718999112
+            },
+            {
+                "stepId": "STEP328",
+                "stepName": "Url: login.pl",
+                "infFile": "t88.inf",
+                "time": 1713718999257
+            },
+            {
+                "stepId": "STEP329",
+                "stepName": "Submit Data: login.pl_2",
+                "infFile": "t89.inf",
+                "time": 1713719001160
+            },
+            {
+                "stepId": "STEP330",
+                "stepName": "Url: button_next.gif",
+                "infFile": "t90.inf",
+                "time": 1713719001342
+            },
+            {
+                "stepId": "STEP331",
+                "stepName": "Url: login.pl_3",
+                "infFile": "t91.inf",
+                "time": 1713719001428
+            },
+            {
+                "stepId": "STEP332",
+                "stepName": "Url: nav.pl_2",
+                "infFile": "t92.inf",
+                "time": 1713719001519
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "UC06_01_Home_page",
+                "rawStartTime": 1713718998693,
+                "rawEndTime": 1713718999121,
+                "thinkTime": 0.0,
+                "wastedTime": 0.08472084999084473
+            },
+            {
+                "transactionName": "UC06_02_Registration",
+                "rawStartTime": 1713718999137,
+                "rawEndTime": 1713718999344,
+                "thinkTime": 0.0,
+                "wastedTime": 0.029966354370117189
+            },
+            {
+                "transactionName": "UC06_03_Filling_data",
+                "rawStartTime": 1713718999360,
+                "rawEndTime": 1713719001167,
+                "thinkTime": 0.0,
+                "wastedTime": 0.015631437301635743
+            },
+            {
+                "transactionName": "UC06_04_Profile",
+                "rawStartTime": 1713719001183,
+                "rawEndTime": 1713719001531,
+                "thinkTime": 0.0,
+                "wastedTime": 0.04731345176696777
+            },
+            {
+                "transactionName": "UC06_New_user_registration",
+                "rawStartTime": 1713718998677,
+                "rawEndTime": 1713719001547,
+                "thinkTime": 0.0,
+                "wastedTime": 0.17763209342956544
+            }
+        ]
+    }
+]

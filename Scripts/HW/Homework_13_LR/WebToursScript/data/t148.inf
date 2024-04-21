@@ -1,0 +1,11 @@
+[t148]
+FileName1=t148_serverlist.txt
+URL1=https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext
+Total=1
+ContentType=text/plain
+SnapshotXmlFile=snapshot_148.xml
+RequestHeaderFile=t148_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t148_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

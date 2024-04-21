@@ -1,0 +1,29 @@
+HTTP/1.1 200 OK
+Date: Fri, 19 Apr 2024 22:55:36 GMT
+Content-Type: application/json
+Content-Length: 30
+Expires: Sat, 26 Jul 1997 05:00:00 GMT
+Cache-Control: no-cache, no-store, private
+P3p: CP="NOI DSP COR NID CURa ADMa DEVa PSAa PSDa OUR BUS COM INT OTC PUR STA"
+Pragma: no-cache
+Tcn: Choice
+Vary: negotiate,Accept-Encoding
+X-Go-Server: go-lax-1-5-71
+X-Xss-Protection: 0
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://www.fangraphs.com
+Set-Cookie: __uis=e3757f5f-5577-4b6c-8179-41def30923f6; expires=Sun, 19 May 2024 22:55:36 GMT; domain=.go.sonobi.com; path=/; secure; SameSite=None
+Set-Cookie: __uin_zt=1974054397042024192; expires=Sat, 19 Apr 2025 22:55:36 GMT; domain=.go.sonobi.com; path=/; secure; SameSite=None
+Set-Cookie: __uin_fw=3aa5f5fc983d16626c235aa411e976df; expires=Sat, 19 Apr 2025 22:55:36 GMT; domain=.go.sonobi.com; path=/; secure; SameSite=None
+Set-Cookie: __uin_bw=13d99c16-0a9b-427b-9869-0d2c4c01392e; expires=Sat, 19 Apr 2025 22:55:36 GMT; domain=.go.sonobi.com; path=/; secure; SameSite=None
+Set-Cookie: __uin_td=cbb52df3-4918-4761-83a7-0f8d9242c7af; expires=Sat, 19 Apr 2025 22:55:36 GMT; domain=.go.sonobi.com; path=/; secure; SameSite=None
+Set-Cookie: __uin_bs=06f1375f-8eb8-4aec-87ab-494d1e6a204e-6607dc39-5553; expires=Sat, 19 Apr 2025 22:55:36 GMT; domain=.go.sonobi.com; path=/; secure; SameSite=None
+Set-Cookie: __uin_st=TJxXJLJnXKd6NN7XddKcODqhcSY; expires=Sat, 19 Apr 2025 22:55:36 GMT; domain=.go.sonobi.com; path=/; secure; SameSite=None
+Set-Cookie: __uin_pp=cDKDEpuYugu8; expires=Sat, 19 Apr 2025 22:55:36 GMT; domain=.go.sonobi.com; path=/; secure; SameSite=None
+Set-Cookie: __uin_rh=mEOkgYuZh4R7pcb9uejrYPn03St-iImpJL6yK4YwD6c; expires=Sat, 19 Apr 2025 22:55:36 GMT; domain=.go.sonobi.com; path=/; secure; SameSite=None
+Set-Cookie: __uin_if=6a5c6607-e908-4300-a1ac-7865c713decc; expires=Sat, 19 Apr 2025 22:55:36 GMT; domain=.go.sonobi.com; path=/; secure; SameSite=None
+Set-Cookie: __uin_an=2655541056139155224; expires=Sat, 19 Apr 2025 22:55:36 GMT; domain=.go.sonobi.com; path=/; secure; SameSite=None
+Set-Cookie: __uin_eb=CAESEPl3CWEcvbB4UbtMFXFfmHk||1; expires=Sat, 19 Apr 2025 22:55:36 GMT; domain=.go.sonobi.com; path=/; secure; SameSite=None
+Server: sonobi-go
+Set-Cookie: HAPLB3A=s3571|ZiL2a; path=/; domain=.go.sonobi.com; SameSite=None; secure
+

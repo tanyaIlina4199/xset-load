@@ -1,0 +1,16 @@
+[t29]
+SnapshotXmlFile=snapshot_26.xml
+ContentType=text/html
+StepName=Url: header.html
+Total=2
+FileName1=t29.html
+FileName2=t89_4_profileValidate.UNK
+RequestHeaderFile=t29_RequestHeader.txt
+SaveSnapshotResources=1
+ResponseHeaderFile=t29_ResponseHeader.txt
+RawStepEndTime=0
+RawStepName=header.html
+RequestBodyFile=t29_RequestBody.txt
+RawStepStartTime=1713719020028
+URL1=http://localhost:1080/WebTours/header.html
+URL2=http://localhost:1080/WebTours/profileValidate.js

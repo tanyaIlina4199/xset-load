@@ -1,0 +1,1 @@
+"{\"id\":1570704522623620,\"jsonrpc\":\"2.0\",\"method\":\"net_version\",\"params\":[]}"

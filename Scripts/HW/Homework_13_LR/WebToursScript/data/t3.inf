@@ -1,0 +1,11 @@
+[t3]
+FileName1=t3.json
+URL1=https://bsc-dataseed.binance.org/
+Total=1
+RequestHeaderFile=t3_RequestHeader.txt
+RequestBodyFile=t3_RequestBody.txt
+ResponseHeaderFile=t3_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_3.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

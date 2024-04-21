@@ -1,0 +1,13 @@
+[t38]
+FileName1=t38.json
+URL1=https://btlr.sharethrough.com/universal/v1?supply_id=WYu2BXv1&upapi=true
+Total=2
+RequestHeaderFile=t38_RequestHeader.txt
+RequestBodyFile=t38_RequestBody.txt
+ResponseHeaderFile=t38_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_38.xml
+FileName2=t38_bid.html
+URL2=https://aax.amazon-adsystem.com/e/dtb/bid?src=600&u=https%3A%2F%2Fwww.fangraphs.com%2F&pid=WYDUSpxMl9SCI&cb=2&ws=1600x765&v=24.305.1002&t=1900&slots=%5B%7B%22sd%22%3A%22sticky_footer__ayManagerEnv__1_5f201413%22%2C%22s%22%3A%5B%22970x90%22%2C%22728x90%22%5D%2C%22sn%22%3A%22%2F1128006%2Fay_sticky_footer%22%7D%2C%7B%22sd%22%3A%22ay_top_banner__ayManagerEnv__1_9549e738%22%2C%22s%22%3A%5B%22970x250%22%2C%22970x90%22%2C%22728x90%22%5D%2C%22sn%22%3A%22%2F1128006%2Fay_fg_top_banner%22%7D%5D&pj=%7B%22device%22%3A%7B%22sua%22%3A%7B%22architecture%22%3A%22x86%22%2C%22bitness%22%3A%2264%22%2C%22mobile%22%3A0%2C%22model%22%3A%22%22%2C%22source%22%3A2%2C%22platform%22%3A%7B%22brand%22%3A%22Windows%22%2C%22version%22%3A%5B%2215%22%2C%220%22%2C%220%22%5D%7D%2C%22browsers%22%3A%5B%7B%22brand%22%3A%22Chromium%22%2C%22version%22%3A%5B%22124%22%2C%220%22%2C%226367%22%2C%2260%22%5D%7D%2C%7B%22brand%22%3A%22Google%20Chrome%22%2C%22version%22%3A%5B%22124%22%2C%220%22%2C%226367%22%2C%2260%22%5D%7D%2C%7B%22brand%22%3A%22Not-A.Brand%22%2C%22version%22%3A%5B%2299%22%2C%220%22%2C%220%22%2C%220%22%5D%7D%5D%7D%7D%7D&sm=f79a535b-ea4f-48b5-a3a8-af149830b1fb&pubid=54eeeb9c-d6c6-4712-bb2a-e2aed51c3eb7&gdpre=0&gdprl=%7B%22status%22%3A%22tcfv2-success%22%7D&vm=%7B%22ids%22%3A%7B%22id5%22%3A%22ID5*Uir_wSaj0gbhwz0sSo84qj-X6GucKfe2BcdoSuzH-JWWdxdZwj2hv2OMdqqU8xAf%22%7D%7D
+[ProtocolInfo]
+ProtocolId=QTWeb

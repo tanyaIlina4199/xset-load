@@ -1,0 +1,11 @@
+[t8]
+FileName1=t8_service-worker.html
+URL1=https://metamask.github.io/phishing-warning/v3.0.3/service-worker.js
+Total=1
+ContentType=application/javascript
+SnapshotXmlFile=snapshot_8.xml
+RequestHeaderFile=t8_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t8_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

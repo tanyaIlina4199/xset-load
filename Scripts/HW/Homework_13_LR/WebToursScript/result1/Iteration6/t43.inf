@@ -1,0 +1,16 @@
+[t43]
+SnapshotXmlFile=snapshot_38.xml
+ContentType=text/html
+StepName=Submit Data: reservations.pl_4
+Total=2
+FileName1=t43.html
+FileName2=t89_4_profileValidate.UNK
+RequestHeaderFile=t43_RequestHeader.txt
+SaveSnapshotResources=1
+ResponseHeaderFile=t43_ResponseHeader.txt
+RawStepEndTime=0
+RawStepName=reservations.pl_4
+RequestBodyFile=t43_RequestBody.txt
+RawStepStartTime=1713719021483
+URL1=http://localhost:1080/cgi-bin/reservations.pl
+URL2=http://localhost:1080/WebTours/profileValidate.js

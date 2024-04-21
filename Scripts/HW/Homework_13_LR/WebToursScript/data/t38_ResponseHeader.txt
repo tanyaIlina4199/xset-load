@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Fri, 19 Apr 2024 22:55:36 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 284
+Connection: keep-alive
+Set-Cookie: stx_user_id=33488a8f-2ed3-45a8-ac8f-73d152bec953; Max-Age=2592000; Expires=Sun, 19 May 2024 22:55:36 GMT; Path=/; Domain=.sharethrough.com; Secure; SameSite=None
+Cache-Control: private, no-cache, no-store, must-revalidate
+x-openrtb-version: 2.5
+Access-Control-Allow-Origin: https://www.fangraphs.com
+Access-Control-Allow-Credentials: true
+content-encoding: gzip
+

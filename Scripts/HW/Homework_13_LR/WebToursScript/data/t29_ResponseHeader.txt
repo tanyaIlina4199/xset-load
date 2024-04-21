@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Fri, 19 Apr 2024 22:55:18 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: ljt_reader=1420e60b4e2eee4fdeac6ed3;Version=1;Domain=.lijit.com;Path=/;Max-Age=31536000;Secure; SameSite=None;
+Access-Control-Allow-Origin: https://www.fangraphs.com
+Access-Control-Allow-Methods: GET, POST, DELETE, PUT
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: X-Requested-With, Content-Type
+Vary: Accept-Encoding, User-Agent
+Content-Encoding: gzip
+

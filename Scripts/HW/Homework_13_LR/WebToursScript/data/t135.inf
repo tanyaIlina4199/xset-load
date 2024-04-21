@@ -1,0 +1,11 @@
+[t135]
+FileName1=t135.htm
+URL1=http://localhost:1080/cgi-bin/nav.pl?page=menu&in=flights
+Total=1
+ContentType=text/html
+SnapshotXmlFile=snapshot_135.xml
+RequestHeaderFile=t135_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t135_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,4 @@
+"{\"entries\":[{\"failure_data\":{\"custom_error\":\"net::ERR_CERT_COMMON_NAME_INVALID\"},\"net"
+"work_changed\":false,\"protocol\":\"\",\"request_age_ms\":94235,\"request_elapsed_ms\":22458,\""
+"sample_rate\":1.0,\"server_ip\":\"\",\"status\":\"ssl.cert.name_invalid\",\"url\":\"https://ss"
+"l.google-analytics.com/ga.js\",\"was_proxied\":false}],\"reporter\":\"chrome\"}"

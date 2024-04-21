@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Date: Fri, 19 Apr 2024 22:54:12 GMT
+Content-Type: text/xml; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+X-Gismeteo-Timestamp: 1713567252
+X-Gismeteo-TimestampStr: 2024/04/19 22:54:12
+Access-Control-Expose-Headers: X-Gismeteo-TimestampStr, X-Gismeteo-Timestamp
+X-DC: nord.ngx-services-nord01
+Server: gis
+X-DC: nord.ngx-services-nord01
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+

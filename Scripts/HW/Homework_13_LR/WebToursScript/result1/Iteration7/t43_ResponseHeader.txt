@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Sun, 21 Apr 2024 17:03:57 GMT
+Server: Apache/2.2.21 (Win32)
+Expires: Sat, 20 Apr 2024 17:03:57 GMT
+Set-Cookie: MTUserInfo=firstName&Robert&username&Robert&address2&Miami&hash&52&address1&Spruce%20Way&lastName&Miller%0A; path=/
+Keep-Alive: timeout=5, max=70
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+

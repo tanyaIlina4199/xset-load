@@ -1,0 +1,16 @@
+[t84]
+SnapshotXmlFile=snapshot_76.xml
+ContentType=text/html
+StepName=Url: welcome.pl
+Total=2
+FileName1=t84.html
+FileName2=t89_1_profileValidate.UNK
+RequestHeaderFile=t84_RequestHeader.txt
+SaveSnapshotResources=1
+ResponseHeaderFile=t84_ResponseHeader.txt
+RawStepEndTime=0
+RawStepName=welcome.pl
+RequestBodyFile=t84_RequestBody.txt
+RawStepStartTime=1713718983144
+URL1=http://localhost:1080/cgi-bin/welcome.pl?signOff=true
+URL2=http://localhost:1080/WebTours/profileValidate.js

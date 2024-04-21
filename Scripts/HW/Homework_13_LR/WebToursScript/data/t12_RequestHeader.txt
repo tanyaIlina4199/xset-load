@@ -1,0 +1,16 @@
+GET /pixel;r=2116040532;rf=0;a=p-8dBx9wgQFa1M6;url=https%3A%2F%2Fwww.fangraphs.com%2F;uht=2;fpan=0;fpa=P0-2045540775-1711041211821;pbc=2e629db3-2e44-4b7a-90a1-95dc913e2663;ns=0;ce=1;qjs=1;qv=b70d35e8-20231208114759;cm=;gdpr=0;ref=;d=fangraphs.com;dst=1;et=1713567213399;tzo=-60;ogl=locale.en_US%2Ctype.website%2Csite_name.FanGraphs%20Baseball%2Cimage.https%3A%2F%2Fwww%252Efangraphs%252Ecom%2Fblogs%2Fwp-content%2Fuploads%2F2016%2F04%2Fflat_fg_green%252Epng;ses=042ccacd-02d7-4f80-a671-f6bfd2d388b1;mdl= HTTP/1.1
+Host: pixel.quantserve.com
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="124", "Google Chrome";v="124", "Not-A.Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.fangraphs.com/
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: mc=656dd6f5-58379-c6d18-bbf5e
+

@@ -1,0 +1,3 @@
+"advanceDiscount=0&depart=Sydney&departDate=04%2F22%2F2024&arrive=London&returnDate=05%2F01%2F2"
+"024&numPassengers=3&seatPref=None&seatType=First&findFlights.x=40&findFlights.y=5&.cgifields=r"
+"oundtrip&.cgifields=seatType&.cgifields=seatPref"

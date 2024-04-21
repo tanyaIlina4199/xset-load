@@ -1,0 +1,11 @@
+[t192]
+FileName1=t192.htm
+URL1=http://localhost:1080/cgi-bin/login.pl?intro=true
+Total=1
+ContentType=text/html
+SnapshotXmlFile=snapshot_192.xml
+RequestHeaderFile=t192_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t192_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

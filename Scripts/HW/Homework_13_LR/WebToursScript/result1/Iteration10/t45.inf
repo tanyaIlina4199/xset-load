@@ -1,0 +1,16 @@
+[t45]
+SnapshotXmlFile=snapshot_40.xml
+ContentType=text/html
+StepName=Url: nav.pl_4
+Total=2
+FileName1=t45.html
+FileName2=t89_8_profileValidate.UNK
+RequestHeaderFile=t45_RequestHeader.txt
+SaveSnapshotResources=1
+ResponseHeaderFile=t45_ResponseHeader.txt
+RawStepEndTime=0
+RawStepName=nav.pl_4
+RequestBodyFile=t45_RequestBody.txt
+RawStepStartTime=1713719085392
+URL1=http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary
+URL2=http://localhost:1080/WebTours/profileValidate.js

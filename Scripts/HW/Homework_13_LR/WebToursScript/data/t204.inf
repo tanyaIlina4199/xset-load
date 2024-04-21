@@ -1,0 +1,11 @@
+[t204]
+FileName1=t204.htm
+URL1=http://localhost:1080/cgi-bin/reservations.pl?page=welcome
+Total=1
+ContentType=text/html
+SnapshotXmlFile=snapshot_204.xml
+RequestHeaderFile=t204_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t204_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,11 @@
+[t12]
+FileName1=t12_pixel;r=2116040532;rf=0;a=p-8dBx9wgQFa1M6;url=https%3A%2F%2Fwww.fangraphs.com%2F;uht=2;fpan=0;fpa=P0-2045540775-1711041211821;pbc=2e629db3-2e44-4b7a-90a1-95dc913e2663;ns=0;ce=1;qjs=1;qv=b70d35e8-20231208114759;cm=;gdpr=0;ref=;d=fangraphs.com;dst=1;et=1713567213399;tzo=-60;ogl=locale.en_US%2Ctype.website%2Csite_name.FanGraphs%20Baseball%2Cimage.gif
+URL1=https://pixel.quantserve.com/pixel;r=2116040532;rf=0;a=p-8dBx9wgQFa1M6;url=https%3A%2F%2Fwww.fangraphs.com%2F;uht=2;fpan=0;fpa=P0-2045540775-1711041211821;pbc=2e629db3-2e44-4b7a-90a1-95dc913e2663;ns=0;ce=1;qjs=1;qv=b70d35e8-20231208114759;cm=;gdpr=0;ref=;d=fangraphs.com;dst=1;et=1713567213399;tzo=-60;ogl=locale.en_US%2Ctype.website%2Csite_name.FanGraphs%20Baseball%2Cimage.https%3A%2F%2Fwww%252Efangraphs%252Ecom%2Fblogs%2Fwp-content%2Fuploads%2F2016%2F04%2Fflat_fg_green%252Epng;ses=042ccacd-02d7-4f80-a671-f6bfd2d388b1;mdl=
+Total=1
+ContentType=image/gif
+SnapshotXmlFile=snapshot_12.xml
+RequestHeaderFile=t12_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t12_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

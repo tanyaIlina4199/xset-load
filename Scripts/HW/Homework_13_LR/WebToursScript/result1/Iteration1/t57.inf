@@ -1,0 +1,13 @@
+[t57]
+SnapshotXmlFile=snapshot_51.xml
+ContentType=text/html
+StepName=Url: login.pl_2
+Total=1
+FileName1=t57.html
+RequestHeaderFile=t57_RequestHeader.txt
+ResponseHeaderFile=t57_ResponseHeader.txt
+RawStepEndTime=0
+RawStepName=login.pl_2
+RequestBodyFile=t57_RequestBody.txt
+RawStepStartTime=1713718949833
+URL1=http://localhost:1080/cgi-bin/login.pl?intro=true

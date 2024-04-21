@@ -1,0 +1,12 @@
+GET /phishing-warning/v3.0.3/workbox-e6d70522.js HTTP/1.1
+Host: metamask.github.io
+Connection: keep-alive
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://metamask.github.io/phishing-warning/v3.0.3/service-worker.js
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+

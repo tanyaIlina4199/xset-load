@@ -1,0 +1,11 @@
+[t179]
+FileName1=t179.htm
+URL1=http://localhost:1080/cgi-bin/welcome.pl?signOff=1
+Total=1
+RequestHeaderFile=t179_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t179_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_179.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

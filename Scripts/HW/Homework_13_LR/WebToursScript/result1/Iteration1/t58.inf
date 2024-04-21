@@ -1,0 +1,13 @@
+[t58]
+SnapshotXmlFile=snapshot_52.xml
+ContentType=text/html
+StepName=Url: nav.pl_2
+Total=1
+FileName1=t58.html
+RequestHeaderFile=t58_RequestHeader.txt
+ResponseHeaderFile=t58_ResponseHeader.txt
+RawStepEndTime=0
+RawStepName=nav.pl_2
+RequestBodyFile=t58_RequestBody.txt
+RawStepStartTime=1713718949927
+URL1=http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home

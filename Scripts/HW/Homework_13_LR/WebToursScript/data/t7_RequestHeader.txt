@@ -1,0 +1,15 @@
+GET /news/get?vendor=chrome&locale=ru&force_locale=0&appVersion=1.2.5&engineVersion=0&privacy_opt_in=undefined&_=0.8540836399629168 HTTP/1.1
+Host: awe-api.acestream.me
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="124", "Google Chrome";v="124", "Not-A.Brand";v="99"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: _ga=GA1.2.677024011.1694681063; _ym_uid=1694681065719466052; _ym_d=1694681065; _ga_VGY1QXTHJH=GS1.1.1694684879.2.0.1694684879.0.0.0
+

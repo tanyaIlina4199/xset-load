@@ -1,0 +1,11 @@
+[t44]
+FileName1=t44_container.htm
+URL1=https://1bbad9fab2acd5e1786fb17cf820def4.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html?upapi=true
+Total=1
+ContentType=text/html
+SnapshotXmlFile=snapshot_44.xml
+RequestHeaderFile=t44_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t44_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

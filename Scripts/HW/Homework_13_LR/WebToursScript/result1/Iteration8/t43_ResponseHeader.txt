@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Sun, 21 Apr 2024 17:04:13 GMT
+Server: Apache/2.2.21 (Win32)
+Expires: Sat, 20 Apr 2024 17:04:13 GMT
+Set-Cookie: MTUserInfo=firstName&Maria&username&Maria&address2&Los%20Angeles&hash&65&address1&Willow%20Drive&lastName&Garcia%0A; path=/
+Keep-Alive: timeout=5, max=70
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+

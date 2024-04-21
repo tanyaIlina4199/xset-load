@@ -1,0 +1,161 @@
+[API Trapper      (548c:60b8)] Recording in 64-bit mode: C:\Users\Admin\AppData\Local\Chromium\Application\chrome.exe
+[API Trapper      (188c:3d4c)] Recording in 64-bit mode: C:\Users\Admin\AppData\Local\Chromium\Application\chrome.exe
+[API Trapper      (22b4:42d0)] Recording in 64-bit mode: C:\Users\Admin\AppData\Local\Chromium\Application\chrome.exe
+[API Trapper      (522c:6594)] Recording in 64-bit mode: C:\Users\Admin\AppData\Local\Chromium\Application\chrome.exe
+[Network Analyzer (522c: bf4)] ------------------------------------------------------------------------------------------
+[Network Analyzer (522c: bf4)] Load Network Traffic Analyzers:
+[Network Analyzer (522c: bf4)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (522c: bf4)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (522c: bf4)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (522c: bf4)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (522c: bf4)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (522c: bf4)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (522c: bf4)] ------------------------------------------------------------------------------------------
+[Network Analyzer (522c:34ec)] Address lookup for Best-Komp = 10.45.1.10
+[Net An. Warning  (522c: bf4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[API Trapper      ( ca8:3214)] Recording in 64-bit mode: C:\Users\Admin\AppData\Local\Chromium\Application\chrome.exe
+[Net An. Warning  (522c: bf4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (522c: bf4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (522c: bf4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (522c: bf4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (522c: bf4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (522c: bf4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (522c: bf4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (522c: bf4)] Address lookup for Best-Komp = 10.45.1.10
+[Network Analyzer (522c: bf4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (522c: bf4)] Address lookup for Best-Komp = 10.45.1.10
+[Web Request      (522c:34ec)] "GET /WebTours/"   
+[Network Analyzer (522c:34ec)]   (Sid:  1) Client -> Server @ : 770 bytes (Service=HTTP)
+[Network Analyzer (522c: bf4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (522c:34ec)]   (Sid:  1) Server -> Client : 196 bytes  (Service=HTTP)
+[Web Request      (522c:34ec)] "GET /WebTours/header.html"   
+[Network Analyzer (522c:34ec)]   (Sid:  1) Client -> Server @ : 807 bytes (Service=HTTP)
+[Web Request      (522c:34ec)] "GET /cgi-bin/welcome.pl?signOff=true"   
+[Network Analyzer (522c:34ec)]   (Sid:  2) Client -> Server @ : 716 bytes (Service=HTTP)
+[Network Analyzer (522c:34ec)]   (Sid:  1) Server -> Client : 195 bytes  (Service=HTTP)
+[Network Analyzer (522c:34ec)]   (Sid:  2) Server -> Client : 1021 bytes  (Service=HTTP)
+[Network Analyzer (522c:34ec)]   (Sid:  2) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (522c:34ec)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (522c:34ec)]   (Sid:  2) Client -> Server @ : 757 bytes (Service=HTTP)
+[Web Request      (522c:34ec)] "GET /WebTours/home.html"   
+[Network Analyzer (522c:34ec)]   (Sid:  1) Client -> Server @ : 855 bytes (Service=HTTP)
+[Network Analyzer (522c:34ec)]   (Sid:  1) Server -> Client : 195 bytes  (Service=HTTP)
+[Network Analyzer (522c:34ec)]   (Sid:  2) Server -> Client : 1752 bytes  (Service=HTTP)
+[Network Analyzer (522c:34ec)]   (Sid:  2) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (522c:34ec)] "GET /favicon.ico"   
+[Network Analyzer (522c:34ec)]   (Sid:  2) Client -> Server @ : 622 bytes (Service=HTTP)
+[Network Analyzer (522c:34ec)]   (Sid:  2) Server -> Client : 424 bytes  (Service=HTTP)
+[Network Analyzer (522c:34ec)]   (Sid:  1) Connection Terminated (by Server)
+[Network Analyzer (522c:34ec)]   (Sid:  2) Connection Terminated (by Server)
+[Net An. Warning  (522c: bf4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (522c: bf4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (522c: bf4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (522c: bf4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (522c: bf4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (522c: bf4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (522c: bf4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (522c: bf4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (522c: bf4)] Address lookup for Best-Komp = 10.45.1.10
+[Network Analyzer (522c: bf4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (522c: bf4)] Address lookup for Best-Komp = 10.45.1.10
+[Web Request      (522c:34ec)] "POST /cgi-bin/login.pl"   
+[Network Analyzer (522c:34ec)]   (Sid:  3) Client -> Server @ : 1013 bytes (Service=HTTP)
+[Network Analyzer (522c: bf4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (522c:34ec)]   (Sid:  3) Server -> Client : 847 bytes  (Service=HTTP)
+[Network Analyzer (522c:34ec)]   (Sid:  3) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (522c:34ec)] "GET /cgi-bin/nav.pl?page=menu&in=home"   
+[Network Analyzer (522c:34ec)]   (Sid:  3) Client -> Server @ : 862 bytes (Service=HTTP)
+[Web Request      (522c:34ec)] "GET /cgi-bin/login.pl?intro=true"   
+[Network Analyzer (522c:34ec)]   (Sid:  4) Client -> Server @ : 857 bytes (Service=HTTP)
+[Network Analyzer (522c:34ec)]   (Sid:  4) Server -> Client : 1154 bytes  (Service=HTTP)
+[Network Analyzer (522c:34ec)]   (Sid:  4) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (522c:34ec)]   (Sid:  3) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer (522c:34ec)]   (Sid:  3) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (522c:34ec)]   (Sid:  4) Connection Terminated (by Server)
+[Network Analyzer (522c:34ec)]   (Sid:  3) Connection Terminated (by Server)
+[Net An. Warning  (522c: bf4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (522c: bf4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (522c: bf4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (522c: bf4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (522c: bf4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (522c: bf4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (522c: bf4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (522c: bf4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (522c: bf4)] Address lookup for Best-Komp = 10.45.1.10
+[Network Analyzer (522c: bf4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer (522c: bf4)] Address lookup for Best-Komp = 10.45.1.10
+[Web Request      (522c:34ec)] "GET /cgi-bin/welcome.pl?page=search"   
+[Network Analyzer (522c:34ec)]   (Sid:  5) Client -> Server @ : 896 bytes (Service=HTTP)
+[Network Analyzer (522c: bf4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (522c:34ec)]   (Sid:  5) Server -> Client : 839 bytes  (Service=HTTP)
+[Network Analyzer (522c:34ec)]   (Sid:  5) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (522c:34ec)] "GET /cgi-bin/nav.pl?page=menu&in=flights"   
+[Network Analyzer (522c:34ec)]   (Sid:  5) Client -> Server @ : 879 bytes (Service=HTTP)
+[Web Request      (522c:34ec)] "GET /cgi-bin/reservations.pl?page=welcome"   
+[Network Analyzer (522c:34ec)]   (Sid:  6) Client -> Server @ : 880 bytes (Service=HTTP)
+[Network Analyzer (522c:34ec)]   (Sid:  5) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer (522c:34ec)]   (Sid:  5) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (522c:34ec)]   (Sid:  6) Server -> Client : 4235 bytes  (Service=HTTP)
+[Network Analyzer (522c:34ec)]   (Sid:  6) Server -> Client : 286 bytes  (Service=HTTP)
+[Network Analyzer (522c:34ec)]   (Sid:  5) Connection Terminated (by Server)
+[Network Analyzer (522c:34ec)]   (Sid:  6) Connection Terminated (by Server)
+[Network Analyzer (522c: bf4)] Address lookup for Best-Komp = 10.45.1.10
+[Network Analyzer (522c: bf4)] Request Connection: Remote Server @ 185.199.108.153:443   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer (522c: 540)]   (Sid:  7) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (522c: 540)]   (Sid:  7) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (522c:34ec)] "GET /uAssets/filters/resource-abuse.txt"   
+[Network Analyzer (522c:34ec)]   (Sid:  7) Client -> Server @ : 512 bytes (SSL)(Service=HTTP)
+[Network Analyzer (522c:34ec)]   (Sid:  7) Server -> Client : 712 bytes (SSL) (Service=HTTP)
+[Network Analyzer (522c:34ec)]   (Sid:  7) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (522c:34ec)]   (Sid:  7) Server -> Client : 703 bytes (SSL) (Service=HTTP)
+[API Trapper      (4798:63f4)] Recording in 64-bit mode: C:\Users\Admin\AppData\Local\Chromium\Application\chrome.exe
+[Net An. Warning  (522c: bf4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (522c: bf4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (522c: bf4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (522c: bf4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (522c: bf4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (522c: bf4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (522c: bf4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (522c: bf4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (522c: bf4)] Address lookup for Best-Komp = 10.45.1.10
+[Network Analyzer (522c: bf4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer (522c: bf4)] Address lookup for Best-Komp = 10.45.1.10
+[Web Request      (522c:34ec)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer (522c:34ec)]   (Sid:  8) Client -> Server @ : 1260 bytes (Service=HTTP)
+[Network Analyzer (522c: bf4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer (522c:34ec)]   (Sid:  8) Server -> Client : 2703 bytes  (Service=HTTP)
+[Network Analyzer (522c:34ec)]   (Sid:  8) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (522c:34ec)]   (Sid:  8) Connection Terminated (by Server)
+[Web Request      (522c:34ec)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer (522c:34ec)]   (Sid:  9) Client -> Server @ : 1151 bytes (Service=HTTP)
+[Network Analyzer (522c:34ec)]   (Sid:  9) Server -> Client : 2961 bytes  (Service=HTTP)
+[Network Analyzer (522c:34ec)]   (Sid:  9) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (522c:34ec)]   (Sid:  9) Connection Terminated (by Server)
+[Network Analyzer (522c: bf4)] Address lookup for Best-Komp = 10.45.1.10
+[Network Analyzer (522c: bf4)] Request Connection: Remote Server @ 172.66.45.19:443   (Service=)  (Sid= 10)  PROXIED!
+[Network Analyzer (522c:4be8)]   (Sid: 10) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (522c:4be8)]   (Sid: 10) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (522c:34ec)] "GET /urlhaus-filter-ag-online.txt"   
+[Network Analyzer (522c:34ec)]   (Sid: 10) Client -> Server @ : 508 bytes (SSL)(Service=HTTP)
+[Network Analyzer (522c:34ec)]   (Sid: 10) Server -> Client : 1369 bytes (SSL) (Service=HTTP)
+[Network Analyzer (522c:34ec)]   (Sid: 10) Server -> Client : 605 bytes (SSL) (Service=HTTP)
+[Network Analyzer (522c:34ec)]   (Sid: 10) Server -> Client : 1369 bytes (SSL) (Service=HTTP)
+[Network Analyzer (522c:34ec)]   (Sid: 10) Server -> Client : 1369 bytes (SSL) (Service=HTTP)
+[Network Analyzer (522c:34ec)]   (Sid: 10) Server -> Client : 1369 bytes (SSL) (Service=HTTP)
+[Network Analyzer (522c:34ec)]   (Sid: 10) Server -> Client : 1369 bytes (SSL) (Service=HTTP)
+[Network Analyzer (522c:34ec)]   (Sid: 10) Server -> Client : 1369 bytes (SSL) (Service=HTTP)
+[Network Analyzer (522c:34ec)]   (Sid: 10) Server -> Client : 1369 bytes (SSL) (Service=HTTP)
+[Network Analyzer (522c:34ec)]   (Sid: 10) Server -> Client : 518 bytes (SSL) (Service=HTTP)
+[Network Analyzer (522c:34ec)]   (Sid: 10) Server -> Client : 1369 bytes (SSL) (Service=HTTP)
+[Network Analyzer (522c:34ec)]   (Sid: 10) Server -> Client : 1369 bytes (SSL) (Service=HTTP)
+[Network Analyzer (522c:34ec)]   (Sid: 10) Server -> Client : 1369 bytes (SSL) (Service=HTTP)
+[Network Analyzer (522c:34ec)]   (Sid: 10) Server -> Client : 1369 bytes (SSL) (Service=HTTP)
+[Network Analyzer (522c:34ec)]   (Sid: 10) Server -> Client : 1369 bytes (SSL) (Service=HTTP)
+[Network Analyzer (522c:34ec)]   (Sid: 10) Server -> Client : 1369 bytes (SSL) (Service=HTTP)
+[Network Analyzer (522c:34ec)]   (Sid: 10) Server -> Client : 1369 bytes (SSL) (Service=HTTP)
+[Network Analyzer (522c:34ec)]   (Sid: 10) Server -> Client : 1251 bytes (SSL) (Service=HTTP)
+[Network Analyzer (522c:34ec)]   (Sid: 10) Server -> Client : 1369 bytes (SSL) (Service=HTTP)
+[Network Analyzer (522c:34ec)]   (Sid: 10) Server -> Client : 1369 bytes (SSL) (Service=HTTP)
+[Network Analyzer (522c:34ec)]   (Sid: 10) Server -> Client : 1369 bytes (SSL) (Service=HTTP)
+[Network Analyzer (522c:34ec)]   (Sid: 10) Server -> Client : 316 bytes (SSL) (Service=HTTP)
+[Network Analyzer (522c:34ec)]   (Sid: 10) Server -> Client : 5 bytes (SSL) (Service=HTTP)

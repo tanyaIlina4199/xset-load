@@ -1,0 +1,19 @@
+POST /prebid?upapi=true HTTP/1.1
+Host: mp.4dex.io
+Connection: keep-alive
+Content-Length: 9261
+sec-ch-ua: "Chromium";v="124", "Google Chrome";v="124", "Not-A.Brand";v="99"
+sec-ch-ua-platform: "Windows"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+Content-Type: text/plain
+Accept: */*
+Origin: https://www.fangraphs.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.fangraphs.com/
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: uids=eyJzeW5jcyI6eyIzM2Fjcm9zcyI6IjIwMjQtMDQtMTVUMDk6NTc6MTYuNjE3MjM5NTk0WiIsImFwcG5leHVzIjoiMjAyNC0wNC0xNVQxMDowMToyOS45NzUwODM1NDhaIiwiZXBsYW5uaW5nIjoiMjAyNC0wNC0xNVQxMDowMDo1NS40ODcwMjcyNDZaIiwiZnJlZXdoZWVsIjoiMjAyNC0wNC0xNVQxMDowMToyOS45NzUwOTE2ODhaIiwiaW1wcm92ZWRpZ2l0YWwiOiIyMDI0LTA0LTE1VDEwOjAxOjA0LjU5ODE0MzMxNFoiLCJpbmRleGV4Y2hhbmdlIjoiMjAyNC0wNC0xNVQwOTo1NzoxNi42MTcyMzI5MDNaIiwib25ldGFnIjoiMjAyNC0wNC0xNVQwOTo1NzoxNi42MTcyMzY4MzlaIiwib3BlbngiOiIyMDI0LTA0LTE1VDEwOjAxOjA0LjU5Nzc1NTU2N1oiLCJvcGVueHBicyI6IjIwMjQtMDQtMTVUMTA6MDE6MjkuOTc1MDk1MjQyWiIsInB1Ym1hdGljIjoiMjAyNC0wNC0xNVQxMDowMDo1NS40ODYyNjUwMTZaIiwicnViaWNvbiI6IjIwMjQtMDQtMTVUMDk6NTc6MTYuNjE3MjM1OTg1WiIsInNtYXJ0IjoiMjAyNC0wNC0xNVQxMDowMTowNC41OTg1ODg3MVoiLCJzb3ZybiI6IjIwMjQtMDQtMTVUMTA6MDE6MDQuNTk3MzE3Nzg3WiIsInRyaXBsZWxpZnQiOiIyMDI0LTA0LTE1VDEwOjAwOjU1LjQ4NjY1ODgzOFoiLCJ1bnJ1bHkiOiIyMDI0LTA0LTE1VDEwOjAwOjU1LjQ4NTU4ODY4MVoifSwidWlkcyI6eyJhZGFnaW8iOnsidWlkIjoiYTA4YmE5NWQtMWFjMi00NzY5LTlmMDMtOWMzOThjZmRlNjU1IiwiZXhwaXJlcyI6IjIwMjQtMDYtMDZUMTY6NDg6MzMuNDgxNzg2MTIyWiJ9LCJ1bnJ1bHkiOnsidWlkIjoiUlgtMmRjODVjODMtMzdmYS00NTFlLWI3MDEtZGU2MzA5NDFhMmFjLTAwMyIsImV4cGlyZXMiOiIyMDI0LTA2LTE1VDA4OjIzOjE3LjkxMzYxMTYwOVoifX0sImJkYXkiOiIyMDI0LTAyLTA3VDA5OjU1OjUwLjcyOTkyOTcwNloifQ==
+

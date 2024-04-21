@@ -1,0 +1,11 @@
+[t154]
+FileName1=t154.htm
+URL1=http://localhost:1080/cgi-bin/welcome.pl?signOff=true
+Total=1
+RequestHeaderFile=t154_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t154_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_154.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

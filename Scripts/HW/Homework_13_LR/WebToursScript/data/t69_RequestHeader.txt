@@ -1,0 +1,15 @@
+GET /inform-service/inf_chrome/forecast/?city=4079&lang=en HTTP/1.1
+Host: services.gismeteo.ru
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="124", "Google Chrome";v="124", "Not-A.Brand";v="99"
+Accept: */*
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: _ym_uid=16140776191072310017; _ym_d=1682808833; _ga=GA1.1.362827438.1614077619; _ga_JQ0KX9JMHV=GS1.1.1696689979.7.1.1696690023.16.0.0
+

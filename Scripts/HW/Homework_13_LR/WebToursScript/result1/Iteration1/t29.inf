@@ -1,0 +1,13 @@
+[t29]
+SnapshotXmlFile=snapshot_26.xml
+ContentType=text/html
+StepName=Url: header.html
+Total=1
+FileName1=t29.html
+RequestHeaderFile=t29_RequestHeader.txt
+ResponseHeaderFile=t29_ResponseHeader.txt
+RawStepEndTime=0
+RawStepName=header.html
+RequestBodyFile=t29_RequestBody.txt
+RawStepStartTime=1713718947244
+URL1=http://localhost:1080/WebTours/header.html

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HTTPSnapshot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="74">
+  <HTTPTask id="578" path="//localhost:1080/WebTours/" url="http://localhost:1080/WebTours/" origin="Primary" startDateTime="2024-04-21T18:04:06.810+01:00" startTime="102414" endTime="102414" blockedTime="0" dnsTime="0" connectTime="0" sendTime="0" waitTime="0" receiveTime="0" sslNegotiateTime="0">
+    <HTTPRequest method="GET" />
+    <HTTPResponse>
+      <contentLenght>0</contentLenght>
+      <HTTPBody>
+        <HTTPDataSet>
+          <HTTPData dataFilePath="" dfeDataType="Raw" sectionDataType="1">
+            <ActualData>PEhUTUw+CjxIRUFEPgo8dGl0bGU+V2ViIFRvdXJzPC90aXRsZT4KPGZyYW1lc2V0IHJvd3MgPSAiNjUsKiIgYm9yZGVyPSIxIiBib3JkZXJjb2xvcj0iI0UwRTdGMSI+CjxmcmFtZSBuYW1lPSJoZWFkZXIiIHNyYz0iaGVhZGVyLmh0bWwiIHNjcm9sbGluZz0ibm8iIG5vcmVzaXplPSJub3Jlc2l6ZSIgbWFyZ2luaGVpZ2h0PSIyIiBtYXJnaW53aWR0aD0iMiIvPgo8ZnJhbWUgbmFtZT0iYm9keSIgc3JjPSIvY2dpLWJpbi93ZWxjb21lLnBsP3NpZ25PZmY9dHJ1ZSIgc2Nyb2xsaW5nPSJhdXRvIiBub3Jlc2l6ZT0ibm9yZXNpemUiIG1hcmdpbmhlaWdodD0iMiIgbWFyZ2lud2lkdGg9IjIiIC8+CjwvZnJhbWVzZXQ+CjwvSEVBRD4KPC9IVE1MPgoK</ActualData>
+          </HTTPData>
+        </HTTPDataSet>
+        <IsExternalData>false</IsExternalData>
+      </HTTPBody>
+    </HTTPResponse>
+  </HTTPTask>
+</HTTPSnapshot>

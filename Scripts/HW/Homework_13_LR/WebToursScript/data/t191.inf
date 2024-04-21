@@ -1,0 +1,11 @@
+[t191]
+FileName1=t191.htm
+URL1=http://localhost:1080/cgi-bin/welcome.pl?page=menus
+Total=1
+RequestHeaderFile=t191_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t191_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_191.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

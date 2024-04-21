@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Server: nginx/1.21.4
+Date: Fri, 19 Apr 2024 22:55:54 GMT
+Content-Type: application/json
+Content-Length: 366
+Connection: keep-alive
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Expires: Wed, 17 Sep 1975 21:32:10 GMT
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://www.fangraphs.com
+Pragma: no-cache
+Vary: Accept-Encoding
+

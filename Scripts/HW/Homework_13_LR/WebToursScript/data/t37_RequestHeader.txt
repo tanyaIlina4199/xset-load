@@ -1,0 +1,18 @@
+GET /hbid/imp?lt=1713567271100&to=-60&aun=ay_top_banner__ayManagerEnv__1_9549e738&criteoId=x6qmhV91RlJNVklCZ3ZTclloZjBtRnAwWUFFNkVQY3IwZEE5ZEhEdU81T0xJZjFveDZLQ3hCSExQNE9JWWlkNFQ0SlYzRXQwZjBJanlzR3NCQVRwTWJ5eTVXeVJDNnYwJTJGblhIdlhqNzNwbXBscDBzJTNE&id5id=ID5*Uir_wSaj0gbhwz0sSo84qj-X6GucKfe2BcdoSuzH-JWWdxdZwj2hv2OMdqqU8xAf&pubcid=f8639b89-3b3c-413e-b7a4-f4d5b8a33fee&gpid=ay_top_banner__ayManagerEnv__1_9549e738&fp=0.03&fpc=USD&t=kvbef9tl&pi=3&maxw=970&maxh=90&si=976166&bf=970x90%2C728x90&vw=1600&vh=765&sw=1600&sh=900&pu=https%3A%2F%2Fwww.fangraphs.com%2F&ce=true&dpr=1&jcsi=%7B%22t%22%3A0%2C%22rq%22%3A8%2C%22pbv%22%3A%227.47.0%22%7D&ogu=null&ns=1024&upapi=true HTTP/1.1
+Host: g2.gumgum.com
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="124", "Google Chrome";v="124", "Not-A.Brand";v="99"
+sec-ch-ua-platform: "Windows"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+Content-Type: text/plain
+Accept: */*
+Origin: https://www.fangraphs.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.fangraphs.com/
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: cs=true; vst=a_8d55cfeb-326d-44a5-b126-a1042ff66ca8
+

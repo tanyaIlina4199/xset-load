@@ -1,0 +1,11 @@
+[t121]
+FileName1=t121_button_next.gif
+URL1=http://localhost:1080/WebTours/images/button_next.gif
+Total=1
+ContentType=image/gif
+SnapshotXmlFile=snapshot_121.xml
+RequestHeaderFile=t121_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t121_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Content-Length: 0
+Content-Type: application/javascript; charset=utf-8
+Date: Fri, 19 Apr 2024 22:55:36 GMT
+NEL: {"failure_fraction":1,"include_subdomains":false,"max_age":604800,"report_to":"nel","success_fraction":0.050000000000000003}
+Server: Domain Reliability Server
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 0
+Via: 1.1 google
+Report-To: {"endpoints":[{"priority":1,"url":"https://b1.nel.goog/upload/1/AHNR2R-uV_nfJ-1StUcJMirecb5ZGB8wn2Xq5cK4pD4rM3xbHIzj_Jg6swgQjJfgMmIQUCRb64NG6w7zxbuQTtQjnzGGTPHgqI_yUerbKFVVO08VJTLsjuBJE_i4XzBXkEaT2O64lisyB8pN0c3stql_7sLu37_fJSgdINpHtVh1mqLDKYYakL0R3uqvohSDwiEHx65AByHONh19Rut-8rzDjlvtXwz9nggK20G4","weight":1}],"group":"nel","max_age":604800}
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+

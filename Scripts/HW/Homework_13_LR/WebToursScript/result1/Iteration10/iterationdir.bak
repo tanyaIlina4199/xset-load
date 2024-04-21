@@ -1,0 +1,12 @@
+[UC04_Tickets_list]
+SnapshotIndex=I10_UC04_Tickets_list
+[UC03_Buy_ticket]
+SnapshotIndex=I10_UC03_Buy_ticket
+[UC05_Removing_existing_ticket]
+SnapshotIndex=I10_UC05_Removing_existing_ticket
+[UC06_New_user_registration]
+SnapshotIndex=I10_UC06_New_user_registration
+[UC02_Search_ticket_without_purchasing]
+SnapshotIndex=I10_UC02_Search_ticket_without_purchasing
+[UC01_Login]
+SnapshotIndex=I10_UC01_Login

@@ -1,0 +1,11 @@
+[t70]
+FileName1=t70_get.json
+URL1=https://awe-api.acestream.me/news/get?vendor=chrome&locale=ru&force_locale=0&appVersion=1.2.5&engineVersion=0&privacy_opt_in=undefined&_=0.346724851948667
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_70.xml
+RequestHeaderFile=t70_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t70_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

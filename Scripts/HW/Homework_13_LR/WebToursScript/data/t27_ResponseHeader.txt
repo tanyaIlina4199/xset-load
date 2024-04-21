@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Fri, 19 Apr 2024 22:55:17 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 0
+Connection: keep-alive
+Set-Cookie: tluidp=13623346213041255891; Path=/; Domain=.3lift.com; Max-Age=7776000; Expires=Thu, 18 Jul 2024 22:55:17 GMT; Secure; SameSite=None; Partitioned;
+P3P: policyref="http://cdn.3lift.com/w3c/p3p.xml", CP="NON DSP COR NID OUR DEL SAM OTR UNR COM NAV INT DEM CNT STA PRE LOC OTC"
+Cache-Control: no-cache, no-store, must-revalidate
+set-cookie: tluid=13623346213041255891; Max-Age=7776000; Expires=Thu, 18 Jul 2024 22:55:17 GMT; Path=/; Domain=.3lift.com; Secure; SameSite=None
+

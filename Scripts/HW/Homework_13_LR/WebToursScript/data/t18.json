@@ -1,0 +1,6 @@
+{
+  "access_token": "ya29.a0Ad52N3-ayTeUTglLTjPP58ptXAc6X_U3tn50F__JXKEnQHqbRE5Nx2Kah6UXWPHT0mLmEoeXLfZEQRSMwcPeMxSVC95Pp_B5tI1H3eAMeOyN1_B-jbN7lDU3QeIJ-0DyCX5lvoioOce42gx4F7C6z7f3e1eN5TmBZbdd4a8Nms4LF5AT-LVq27LdUNajYAEYEV5WSJoGpTpx92VYjchC-rmIYNPi2vu58LLlo0hatPQOfd-xpilTQIc5aKe2-ufzD1ZYr-6EBScaCgYKAUYSARASFQHGX2MiS-DJ19ZngYpzjBHdM6t0Rg0274",
+  "expires_in": 3599,
+  "scope": "https://www.googleapis.com/auth/account.capabilities",
+  "token_type": "Bearer"
+}

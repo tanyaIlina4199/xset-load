@@ -1,0 +1,17 @@
+GET /sync?&upapi=true HTTP/1.1
+Host: eb2.3lift.com
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="124", "Google Chrome";v="124", "Not-A.Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Referer: https://www.fangraphs.com/
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: sync=CgoIgAIQt6LCie4xCgoIgQIQlZrCie4xCgoIggIQp7OAsO4xCgoIgwIQ9_Xpl_4wCgoIhwIQheHBie4xCgkICRD6mLSgqDEKCgiJAhDf9pPF7S8KCQgLEJWawonuMQoKCIsCELeiwonuMQoKCIwCEIXhwYnuMQoKCI4BELeiwonuMQoJCA4Qt6OAsO4xCgoIjwIQp7OAsO4xCgoIkAIQt6OAsO4xCgoIkQIQlZrCie4xCgoIkgIQlZrCie4xCgoIkwIQt6OAsO4xCgoIlAIQlZrCie4xCgkIFBDW-LW1pjEKCgiVAhCns4Cw7jEKCgiWAhC3o4Cw7jEKCgiXAhDf9pPF7S8KCgiYAhC58ZPF7S8KCgiZAhC58ZPF7S8KCgiaARDmxoKw7jEKCgiaAhDf9pPF7S8KCQgbEIXhwYnuMQoKCJsCELnxk8XtLwoKCJwCELnxk8XtLwoKCJ0CELeiwonuMQoKCJ4CEKezgLDuMQoJCB8QlZrCie4xCgoInwIQp7OAsO4xCgoIoQEQheHBie4xCgoIoQIQ-tqI19UwCgoIogIQp7OAsO4xCgkIJBCns4Cw7jEKCginAhCgu7TM4DAKCgioAhDmxoKw7jEKCgipAhDmxoKw7jEKCgiqAhDi8962kDEKCgirAhDmxoKw7jEKCgisAhCF4cGJ7jEKCgitAhCF4cGJ7jEKCgiuAhDmxoKw7jEKCgiwAhC3o4Cw7jEKCgixAhCns4Cw7jEKCgiyAhDGgd-2kDEKCgizAhC3o4Cw7jEKCgi0AhCVmsKJ7jEKCgi1AhC3osKJ7jEKCgi3AhCF4cGJ7jEKCgi4ARDmxoKw7jEKCgi4AhCns4Cw7jEKCQg5ELeiwonuMQoKCLkCELejgLDuMQoJCDoQheHBie4xCgoIugIQp7OAsO4xCgoIvQEQ5saCsO4xCgkIPxC3o4Cw7jEKCgjCARDmxoKw7jEKCQhJEJWawonuMQoKCM4BELeiwonuMQoKCNYBELejgLDuMQoKCNkBEPbdntu1MAoKCN4BEJWawonuMQoJCF8QheHBie4xCgoI3wEQ5saCsO4xCgoI4gEQlZrCie4xCgoI4wEQt6LCie4xCgoI5gEQheHBie4xCgoI5wEQt6LCie4xCgkIcxCyp8au8DAKCgj3ARDZlpTF7S8KCgj7ARC3o4Cw7jEKCgj-ARDZlpTF7S8KCgj_ARC3osKJ7jE=; tluid=13623346213041255891; receive-cookie-deprecation=1; tluidp=13623346213041255891
+

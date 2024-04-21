@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 19 Apr 2024 22:54:49 GMT
+Content-Type: text/plain
+Content-Length: 0
+Connection: keep-alive
+Cache-Control: no-store, no-cache, private, no-transform
+Expires: Thu, 01 Jan 1980 00:00:01 GMT
+Access-Control-Max-Age: 86400
+Access-Control-Allow-Origin: https://www.fangraphs.com
+Access-Control-Allow-Methods: POST, GET, OPTIONS
+Access-Control-Allow-Headers: Content-Type, Content-Length, Accept-Encoding
+Access-Control-Allow-Credentials: true
+

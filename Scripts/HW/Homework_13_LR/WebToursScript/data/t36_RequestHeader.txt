@@ -1,0 +1,18 @@
+GET /trinity.json?key_maker=%7B%22387487bac47bb13%22%3A%2298b6ea6008308565b34c%7C160x600%2C120x600%7Cgpid%3Dsticky_left__ayManagerEnv__1_6dbd0ea0%2Cc%3Dd%2C%22%2C%2239f869e8963a64%22%3A%2221e570ccb64422d86daa%7C160x600%2C120x600%7Cgpid%3Dsticky_right__ayManagerEnv__1_69b3d958%2Cc%3Dd%2C%22%2C%22402d840542d422b%22%3A%227ace70b797f26578cccd%7C970x90%2C728x90%7Cgpid%3Day_top_banner__ayManagerEnv__1_9549e738%2Cc%3Dd%2C%22%7D&ref=https%3A%2F%2Fwww.fangraphs.com%2F&s=55656f4e-089a-4ab3-a171-5118e83392ff&pv=2f7b6681-0b94-42ba-a950-c949d34e241d&vp=desktop&lib_name=prebid&lib_v=7.47.0&us=25&iqid=%7B%22pcid%22%3A%226f7d5654-1bb4-42dd-8a31-5de027b0bc16%22%2C%22pcidDate%22%3A1711553892941%7D&fpd=%7B%22site%22%3A%7B%22domain%22%3A%22fangraphs.com%22%2C%22publisher%22%3A%7B%22domain%22%3A%22fangraphs.com%22%7D%2C%22page%22%3A%22https%3A%2F%2Fwww.fangraphs.com%2F%22%7D%2C%22device%22%3A%7B%22w%22%3A1600%2C%22h%22%3A765%2C%22dnt%22%3A0%2C%22ua%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F124.0.0.0%20Safari%2F537.36%22%2C%22language%22%3A%22en%22%7D%7D&ius=1&eids=%5B%7B%22source%22%3A%22criteo.com%22%2C%22uids%22%3A%5B%7B%22id%22%3A%22x6qmhV91RlJNVklCZ3ZTclloZjBtRnAwWUFFNkVQY3IwZEE5ZEhEdU81T0xJZjFveDZLQ3hCSExQNE9JWWlkNFQ0SlYzRXQwZjBJanlzR3NCQVRwTWJ5eTVXeVJDNnYwJTJGblhIdlhqNzNwbXBscDBzJTNE%22%2C%22atype%22%3A1%7D%5D%7D%2C%7B%22source%22%3A%22id5-sync.com%22%2C%22uids%22%3A%5B%7B%22id%22%3A%22ID5*Uir_wSaj0gbhwz0sSo84qj-X6GucKfe2BcdoSuzH-JWWdxdZwj2hv2OMdqqU8xAf%22%2C%22atype%22%3A1%2C%22ext%22%3A%7B%22linkType%22%3A2%7D%7D%5D%7D%2C%7B%22source%22%3A%22blockthrough.com%22%2C%22uids%22%3A%5B%7B%22id%22%3A%22bt-aauser%22%2C%22atype%22%3A1%2C%22ext%22%3A%7B%22stype%22%3A%22ppuid%22%7D%7D%5D%7D%2C%7B%22source%22%3A%22pubcid.org%22%2C%22uids%22%3A%5B%7B%22id%22%3A%22f8639b89-3b3c-413e-b7a4-f4d5b8a33fee%22%2C%22atype%22%3A1%7D%5D%7D%5D&coppa=0&upapi=true HTTP/1.1
+Host: apex.go.sonobi.com
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="124", "Google Chrome";v="124", "Not-A.Brand";v="99"
+sec-ch-ua-platform: "Windows"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+Content-Type: text/plain
+Accept: */*
+Origin: https://www.fangraphs.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.fangraphs.com/
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: __uis=e3757f5f-5577-4b6c-8179-41def30923f6; __uin_eb=CAESEPl3CWEcvbB4UbtMFXFfmHk||1; __uin_yh=y-qpC4w71E2uHeULMi3T297lhILcO4lUghOQWOHNk-~A; __uin_mm=4a0663f4-b900-4200-aa22-ef5f9ab5b2c9; __uin_pp=cDKDEpuYugu8; __uin_tl=13623346213041255891; __uin_if=6a5c6607-e908-4300-a1ac-7865c713decc; __uin_zt=1974054397042024192; __uin_bs=06f1375f-8eb8-4aec-87ab-494d1e6a204e-6607dc39-5553; __uin_rh=mEOkgYuZh4R7pcb9uejrYPn03St-iImpJL6yK4YwD6c; __uin_an=2655541056139155224; __uin_td=cbb52df3-4918-4761-83a7-0f8d9242c7af; __uin_fw=3aa5f5fc983d16626c235aa411e976df; __uin_st=TJxXJLJnXKd6NN7XddKcODqhcSY; __uin_bw=13d99c16-0a9b-427b-9869-0d2c4c01392e; _usd_fangraphs.com=cf470534-2f46-4f45-bee8-cfac3fb2ed10
+

@@ -1,0 +1,13 @@
+[t65]
+SnapshotXmlFile=snapshot_59.xml
+ContentType=text/html
+StepName=Url: WebTours
+Total=1
+FileName1=t65.html
+RequestHeaderFile=t65_RequestHeader.txt
+ResponseHeaderFile=t65_ResponseHeader.txt
+RawStepEndTime=0
+RawStepName=WebTours
+RequestBodyFile=t65_RequestBody.txt
+RawStepStartTime=1713718950702
+URL1=http://localhost:1080/WebTours/

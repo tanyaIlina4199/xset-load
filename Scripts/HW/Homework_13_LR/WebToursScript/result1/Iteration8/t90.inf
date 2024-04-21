@@ -1,0 +1,16 @@
+[t90]
+SnapshotXmlFile=snapshot_82.xml
+ContentType=text/html
+StepName=Url: button_next.gif
+Total=2
+FileName1=t90.html
+FileName2=t89_7_profileValidate.UNK
+RequestHeaderFile=t90_RequestHeader.txt
+SaveSnapshotResources=1
+ResponseHeaderFile=t90_ResponseHeader.txt
+RawStepEndTime=0
+RawStepName=button_next.gif
+RequestBodyFile=t90_RequestBody.txt
+RawStepStartTime=1713719065015
+URL1=http://localhost:1080/cgi-bin/welcome.pl?page=menus
+URL2=http://localhost:1080/WebTours/profileValidate.js

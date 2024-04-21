@@ -1,0 +1,11 @@
+[t178]
+FileName1=t178_filters.min.txt
+URL1=https://ublockorigin.github.io/uAssetsCDN/filters/filters.min.txt
+Total=1
+ContentType=text/plain
+SnapshotXmlFile=snapshot_178.xml
+RequestHeaderFile=t178_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t178_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

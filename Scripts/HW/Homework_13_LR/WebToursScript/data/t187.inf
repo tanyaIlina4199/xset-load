@@ -1,0 +1,11 @@
+[t187]
+FileName1=t187.htm
+URL1=http://localhost:1080/cgi-bin/login.pl?username=&password=&getInfo=true
+Total=1
+RequestHeaderFile=t187_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t187_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_187.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

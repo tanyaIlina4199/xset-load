@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Fri, 19 Apr 2024 22:54:55 GMT
+Content-Length: 0
+Connection: keep-alive
+vary: origin
+access-control-allow-credentials: true
+access-control-allow-origin: https://www.fangraphs.com
+cache-control: no-store
+pragma: no-cache
+expires: 0
+

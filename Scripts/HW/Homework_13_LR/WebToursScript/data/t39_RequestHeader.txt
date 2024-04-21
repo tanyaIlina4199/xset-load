@@ -1,0 +1,19 @@
+GET /a/api/fastlane.json?account_id=10278&site_id=210096&zone_id=3355410&size_id=2&alt_size_ids=55&eid_id5-sync.com=ID5*Uir_wSaj0gbhwz0sSo84qj-X6GucKfe2BcdoSuzH-JWWdxdZwj2hv2OMdqqU8xAf%5E1%5E2&eid_pubcid.org=2e629db3-2e44-4b7a-90a1-95dc913e2663%5E1&rf=https%3A%2F%2Fwww.fangraphs.com%2F&tg_i.domain=fangraphs.com&tg_i.page=https%3A%2F%2Fwww.fangraphs.com%2F&tg_i.pbadslot=%2F1128006%2Fay_sticky_footer&tk_flint=pbjs_lite_v8.43.0&x_source.tid=6e239729-e956-420f-a306-07bf5130dbc9&l_pb_bid_id=11151fb64289aa96&p_screen_res=1600x900&rp_secure=1&x_imp.ext.tid=dc8d8f55-57f9-4926-a611-064307f08a23&rp_maxbids=1&p_gpid=%2F1128006%2Fay_sticky_footer&m_ch_ua=%22Chromium%22%7Cv%3D%22124%22%2C%22Google%20Chrome%22%7Cv%3D%22124%22%2C%22Not-A.Brand%22%7Cv%3D%2299%22&m_ch_full_ver=%22Chromium%22%7Cv%3D%22124%22%2C%22Google%20Chrome%22%7Cv%3D%22124%22%2C%22Not-A.Brand%22%7Cv%3D%2299%22&m_ch_mobile=%3F0&m_ch_platform=Windows&slots=1&rand=0.8241446646073427 HTTP/1.1
+Host: fastlane.rubiconproject.com
+Connection: keep-alive
+sec-ch-ua: "Chromium";v="124", "Google Chrome";v="124", "Not-A.Brand";v="99"
+sec-ch-ua-platform: "Windows"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+content-type: text/plain
+Accept: */*
+Sec-Browsing-Topics: ();p=P0000000000000000000000000000000
+Origin: https://www.fangraphs.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.fangraphs.com/
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: khaos=LT5XB38M-D-FCRQ; receive-cookie-deprecation=1; audit=1|naVuGyos1qq0qSb2nGKBBZj/qEzGBvVT0mQdGl5TW96xXwzsfItzayRwgrcjBYVZUmWWbroCrmYmGweUluV0NzNF7Xfk3iAErmeAf3la8RYO3OmLDv27x0iL/Q+AxqkR
+

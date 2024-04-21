@@ -1,0 +1,6 @@
+{
+  "access_token": "ya29.a0Ad52N389ww1drefXe2aJ_t7UU6Ql8Ijc5Gxt1B6FIlSu0ZIkmG7zrTWK9MRodlmowqo5urGuPfmNJGsOfeP1W8sw6E5KLZPbAoy7kZuz-KWgtxPm67LD_6Wv6zwDcYUokxMVZ8yfmYbdGNGRgCZBjz0oc_lhRt_8aya9vuhdrqJZthC5i_AYZDZDn2xZpJhTnrQz0kekgKPY1mdhSHES9WVTb4pb-lgF-7Brufuks2sOG0Q5bTbCV3O7SXsO_qcr-DvO09GwiAcaCgYKAe8SARISFQHGX2Mi-NEqqTJKTXGGtp1ZQJQE5A0274",
+  "expires_in": 3599,
+  "scope": "https://www.googleapis.com/auth/chrome-safe-browsing",
+  "token_type": "Bearer"
+}

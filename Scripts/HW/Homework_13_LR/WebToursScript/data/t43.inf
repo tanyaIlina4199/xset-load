@@ -1,0 +1,11 @@
+[t43]
+FileName1=t43_fastlane.json
+URL1=https://fastlane.rubiconproject.com/a/api/fastlane.json?account_id=26488&site_id=541318&zone_id=3344548&size_id=2&alt_size_ids=55%2C57&eid_id5-sync.com=ID5*Uir_wSaj0gbhwz0sSo84qj-X6GucKfe2BcdoSuzH-JWWdxdZwj2hv2OMdqqU8xAf%5E1%5E2&eid_pubcid.org=2e629db3-2e44-4b7a-90a1-95dc913e2663%5E1&rf=https%3A%2F%2Fwww.fangraphs.com%2F&tg_i.domain=fangraphs.com&tg_i.page=https%3A%2F%2Fwww.fangraphs.com%2F&tg_i.pbadslot=%2F1128006%2Fay_fg_top_banner&tk_flint=pbjs_lite_v8.43.0&x_source.tid=6e239729-e956-420f-a306-07bf5130dbc9&l_pb_bid_id=115d3b2a7d041d35&p_screen_res=1600x900&rp_secure=1&x_imp.ext.tid=afd21306-1218-441d-b831-cd95cacff2c1&rp_maxbids=1&p_gpid=%2F1128006%2Fay_fg_top_banner&m_ch_ua=%22Chromium%22%7Cv%3D%22124%22%2C%22Google%20Chrome%22%7Cv%3D%22124%22%2C%22Not-A.Brand%22%7Cv%3D%2299%22&m_ch_full_ver=%22Chromium%22%7Cv%3D%22124%22%2C%22Google%20Chrome%22%7Cv%3D%22124%22%2C%22Not-A.Brand%22%7Cv%3D%2299%22&m_ch_mobile=%3F0&m_ch_platform=Windows&slots=1&rand=0.010920150522228722
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_43.xml
+RequestHeaderFile=t43_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t43_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

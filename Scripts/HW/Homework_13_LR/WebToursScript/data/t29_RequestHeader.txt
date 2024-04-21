@@ -1,0 +1,19 @@
+POST /rtb/bid?src=prebid_prebid_7.47.0&upapi=true HTTP/1.1
+Host: ap.lijit.com
+Connection: keep-alive
+Content-Length: 2101
+sec-ch-ua: "Chromium";v="124", "Google Chrome";v="124", "Not-A.Brand";v="99"
+sec-ch-ua-platform: "Windows"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+Content-Type: text/plain
+Accept: */*
+Origin: https://www.fangraphs.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.fangraphs.com/
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en,ru-RU;q=0.9,ru;q=0.8,en-US;q=0.7
+Cookie: ctag=; ljt_reader=1420e60b4e2eee4fdeac6ed3; ljtrtb=eJyVU01vFEkM%2FS9zxlKVy3aVc%2Bueno6QQrKbmRDEBdXnLoSIAZSBsNr%2FTlVy3ZVAfaiW69l%2Bz8%2F1z0Zkc7ZhZK%2FCai37zYsNG2N7NGlCzS7mHJNlKsGE4CjkaFhiydqROLKNd5laEajUCMh7BjXRQK3cnLfaNIWB9R2LLUUNHEAzeqDqFaLGBCouiM%2FjTjqWdPQvl8vX29ub%2B9maHlPsMSIyQsToFFn750dpP%2BiuYTu7iVfAaV2ARBaYDFnAdZ2n3YrLbh6UlTpWuh4hG9YlyFZmO%2BNiZ2PcfPFyPzCD6vUbwJID5%2BDA%2BRaB2FZI3lgoVZxRshFjhp7WUzrFs43lgKH3FLUeg%2BN%2BDnZjSC6J1igK3iADGV8guIxggyqisi04sPb%2FRbL8NikOvz4XO8rnZFWsBEAM3cpqE4ToHBRssZtlMLcG3LowVzww8%2BgSjAzxueqxqIo%2B7ve3KJne1jumy%2FJtFB8T6HDrHAlao97aYHhsRb%2FZhmWndqcTqhIzTrTM827r%2BlK4bs8Q74ZpVIy4WqBRDV24MRCNKvRJKTuqHPuKDCdGTRuq8dEGsK5E4KLYF802kIK5kGeT2rNto%2FLVHzfOtIS5BhvQEgp1q7iqTzFjrI780wKPNh3uj%2B3kgrP2LlI7Pk2gRy8O%2FGZ24RUssG6v%2Fxxh959h9E746TE8%2F3TgqJrPqmkaNUXnE1E2400lTzU6yjVhHPsRuCOnaXo83Pnzb2k3Tecq9%2Fru4%2FkYcxge%2FiiXx9fHfb6v8aWcyrKftzDxza74H3A8HN6tj38tS9pfXa5PKYOI1kaxmgSoYqDLF0gSK6ha6YvrXeM4XuXQo9efOX2e4ulweji%2F%2Bv5FZ3gfT1%2Fr6fbLwx6%2BH%2BHvhw9T%2BvR28%2B9PncIO9w%3D%3D; ljtrtbexp=eJxdUktyBSAIu4trFxD%2BvVqndy9qX2d0mUgIBL8Hjy%2F2NKYQiznQMFhDgMw53A8mKZTMYZyxBFFNQHgO2TCTrYk5gu8GRrQdIiCIaobpVlSVLaZhwNEmcUwlul7bgnFm1FAGbUWcCqei5dJM3r5Jp0KTnL17%2BD82aZxyv6c%2Benuw3%2FWQ5%2F1MRCVQqsZ1x4SPPtyyce0UTBowr9zj3rlw%2B9XO2SkRXgvveUkBL7T%2Bk0hwslqfZfm5Oisid%2BpPQyZ5Cb9X0mfF%2FiKHMEtI76j13Nrvy1reO%2FcMf79FSlLy5xcaCH0Z
+

@@ -1,0 +1,11 @@
+[t143]
+FileName1=t143.htm
+URL1=http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary
+Total=1
+ContentType=text/html
+SnapshotXmlFile=snapshot_143.xml
+RequestHeaderFile=t143_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t143_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb
