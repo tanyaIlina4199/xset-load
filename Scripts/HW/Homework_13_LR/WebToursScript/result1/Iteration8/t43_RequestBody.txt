@@ -1,4 +1,0 @@
-"firstName=Maria&lastName=Garcia&address1=Willow+Drive&address2=Los+Angeles&pass1=Garcia&pass2="
-"Garcia1&pass3=Garcia2&creditCard=0987654334567890&expDate=07%2F25&oldCCOption=&numPassengers=3"
-"&seatType=Business&seatPref=Window&outboundFlight=280%3B2089%3B04%2F22%2F2024&advanceDiscount="
-"0&returnFlight=&JSFormSubmit=off&buyFlights.x=28&buyFlights.y=11&.cgifields=saveCC"
