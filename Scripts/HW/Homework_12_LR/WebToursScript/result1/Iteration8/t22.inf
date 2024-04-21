@@ -1,0 +1,16 @@
+[t22]
+SnapshotXmlFile=snapshot_20.xml
+ContentType=text/html
+StepName=Url: Search Flights Button
+Total=2
+FileName1=t22.html
+FileName2=t89_6_profileValidate.UNK
+RequestHeaderFile=t22_RequestHeader.txt
+SaveSnapshotResources=1
+ResponseHeaderFile=t22_ResponseHeader.txt
+RawStepEndTime=0
+RawStepName=Search Flights Button
+RequestBodyFile=t22_RequestBody.txt
+RawStepStartTime=1713719051526
+URL1=http://localhost:1080/cgi-bin/welcome.pl?page=search
+URL2=http://localhost:1080/WebTours/profileValidate.js

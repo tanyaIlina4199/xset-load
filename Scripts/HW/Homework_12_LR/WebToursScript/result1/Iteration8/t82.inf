@@ -1,0 +1,16 @@
+[t82]
+SnapshotXmlFile=snapshot_74.xml
+ContentType=text/html
+StepName=Url: WebTours
+Total=2
+FileName1=t82.html
+FileName2=t89_6_profileValidate.UNK
+RequestHeaderFile=t82_RequestHeader.txt
+SaveSnapshotResources=1
+ResponseHeaderFile=t82_ResponseHeader.txt
+RawStepEndTime=0
+RawStepName=WebTours
+RequestBodyFile=t82_RequestBody.txt
+RawStepStartTime=1713719062554
+URL1=http://localhost:1080/WebTours/
+URL2=http://localhost:1080/WebTours/profileValidate.js

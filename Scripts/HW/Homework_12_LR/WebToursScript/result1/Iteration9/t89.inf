@@ -1,0 +1,16 @@
+[t89]
+SnapshotXmlFile=snapshot_81.xml
+ContentType=text/html
+StepName=Submit Data: login.pl_2
+Total=2
+FileName1=t89.html
+FileName2=t89_8_profileValidate.UNK
+RequestHeaderFile=t89_RequestHeader.txt
+SaveSnapshotResources=1
+ResponseHeaderFile=t89_ResponseHeader.txt
+RawStepEndTime=0
+RawStepName=login.pl_2
+RequestBodyFile=t89_RequestBody.txt
+RawStepStartTime=1713719080276
+URL1=http://localhost:1080/cgi-bin/login.pl
+URL2=http://localhost:1080/WebTours/profileValidate.js

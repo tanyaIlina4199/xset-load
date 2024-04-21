@@ -1,0 +1,16 @@
+[t76]
+SnapshotXmlFile=snapshot_68.xml
+ContentType=text/html
+StepName=Url: itinerary.pl
+Total=2
+FileName1=t76.html
+FileName2=t89_7_profileValidate.UNK
+RequestHeaderFile=t76_RequestHeader.txt
+SaveSnapshotResources=1
+ResponseHeaderFile=t76_ResponseHeader.txt
+RawStepEndTime=0
+RawStepName=itinerary.pl
+RequestBodyFile=t76_RequestBody.txt
+RawStepStartTime=1713719072799
+URL1=http://localhost:1080/cgi-bin/itinerary.pl
+URL2=http://localhost:1080/WebTours/profileValidate.js
